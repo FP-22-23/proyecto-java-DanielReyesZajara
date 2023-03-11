@@ -1,0 +1,1000 @@
+num,abv,ibu,id,name,style,ounces,booleano,fecha
+0,0.05,,1436,Pub Beer,American Pale Lager,12.0,FALSE,15/11/2022
+1,66,,2265,Devil's Cup,American Pale Ale (APA),12.0,TRUE,14/02/2023
+2,71,,2264,Rise of the Phoenix,American IPA,12.0,FALSE,17/01/2023
+3,0.09,,2263,Sinister,American Double / Imperial IPA,12.0,TRUE,23/04/2022
+4,75,,2262,Sex and Candy,American IPA,12.0,TRUE,16/10/2022
+5,77,,2261,Black Exodus,Oatmeal Stout,12.0,FALSE,18/10/2022
+6,45,,2260,Lake Street Express,American Pale Ale (APA),12.0,TRUE,09/02/2023
+7,65,,2259,Foreman,American Porter,12.0,FALSE,23/05/2022
+8,55,,2258,Jade,American Pale Ale (APA),12.0,TRUE,23/11/2022
+9,86,,2131,Cone Crusher,American Double / Imperial IPA,12.0,TRUE,13/10/2022
+10,7.200.000.000.000.000,,2099,Sophomoric Saison,Saison / Farmhouse Ale,12.0,TRUE,23/08/2022
+11,73,,2098,Regional Ring Of Fire,Saison / Farmhouse Ale,12.0,FALSE,14/03/2022
+12,69,,2097,Garce Selé,Saison / Farmhouse Ale,12.0,TRUE,01/10/2022
+13,85,,1980,Troll Destroyer,Belgian IPA,12.0,TRUE,25/08/2022
+14,61,60.0,1979,Bitter Bitch,American Pale Ale (APA),12.0,FALSE,11/07/2022
+15,0.06,,2318,Ginja Ninja,Cider,12.0,TRUE,01/01/2023
+16,0.06,,2170,Cherried Away,Cider,12.0,TRUE,15/01/2023
+17,0.06,,2169,Rhubarbarian,Cider,12.0,TRUE,17/05/2022
+18,0.06,,1502,BrightCider,Cider,12.0,TRUE,25/11/2022
+19,8.199.999.999.999.990,,1593,He Said Baltic-Style Porter,Baltic Porter,12.0,TRUE,05/06/2022
+20,8.199.999.999.999.990,,1592,He Said Belgian-Style Tripel,Tripel,12.0,FALSE,14/09/2022
+21,99,92.0,1036,Lower De Boom,American Barleywine,8.4,TRUE,11/10/2022
+22,79,45.0,1024,Fireside Chat,Winter Warmer,12.0,FALSE,19/12/2022
+23,79,,976,Marooned On Hog Island,American Stout,12.0,FALSE,10/06/2022
+24,44.000.000.000.000.000,42.0,876,Bitter American,American Pale Ale (APA),12.0,FALSE,26/06/2022
+25,49,17.0,802,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12.0,TRUE,23/05/2022
+26,49,17.0,801,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12.0,FALSE,31/01/2023
+27,49,17.0,800,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,12.0,TRUE,11/09/2022
+28,0.07,70.0,799,21st Amendment IPA (2006),American IPA,12.0,FALSE,28/05/2022
+29,0.07,70.0,797,Brew Free! or Die IPA (2008),American IPA,12.0,FALSE,10/11/2022
+30,0.07,70.0,796,Brew Free! or Die IPA (2009),American IPA,12.0,TRUE,10/07/2022
+31,85,52.0,531,Special Edition: Allies Win The War!,English Strong Ale,12.0,FALSE,29/01/2023
+32,9.699.999.999.999.990,94.0,432,Hop Crisis,American Double / Imperial IPA,12.0,TRUE,10/06/2022
+33,44.000.000.000.000.000,42.0,353,Bitter American (2011),American Pale Ale (APA),12.0,FALSE,12/05/2022
+34,79,45.0,321,Fireside Chat (2010),Winter Warmer,12.0,TRUE,28/06/2022
+35,68,65.0,173,Back in Black,American Black Ale,12.0,FALSE,18/04/2022
+36,83,35.0,11,Monk's Blood,Belgian Dark Ale,12.0,TRUE,12/11/2022
+37,0.07,65.0,10,Brew Free! or Die IPA,American IPA,12.0,TRUE,29/06/2022
+38,49,17.0,9,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,12.0,TRUE,23/03/2022
+39,0.07,82.0,2519,Bimini Twist,American IPA,12.0,FALSE,17/11/2022
+40,0.05,,2518,Beach Blonde,American Blonde Ale,12.0,FALSE,27/01/2023
+41,59.000.000.000.000.000,,2517,Rod Bender Red,American Amber / Red Ale,12.0,FALSE,07/06/2022
+42,35,11.0,2545,Passion Fruit Prussia,Berliner Weissbier,12.0,TRUE,10/07/2022
+43,45,18.0,2544,Send Help,American Blonde Ale,12.0,FALSE,20/11/2022
+44,55,,2324,Cast Iron Oatmeal Brown,American Brown Ale,12.0,TRUE,17/04/2022
+45,0.06,,2288,Reprise Centennial Red,American Amber / Red Ale,12.0,TRUE,23/08/2022
+46,55,,2287,Alter Ego,American Black Ale,12.0,FALSE,07/10/2022
+47,65,,2286,Divided Sky,American IPA,12.0,FALSE,06/10/2022
+48,65,,2285,Resurrected,American IPA,12.0,FALSE,31/12/2022
+49,0.05,28.0,1870,Contact High,American Pale Wheat Ale,12.0,TRUE,18/01/2023
+50,65,,2603,Galaxyfest,American IPA,16.0,TRUE,02/11/2022
+51,0.05,45.0,2602,Citrafest,American IPA,16.0,TRUE,06/01/2023
+52,0.09,,2220,Barn Yeti,Belgian Strong Dark Ale,16.0,FALSE,09/02/2023
+53,69,65.0,2219,Scarecrow,American IPA,16.0,FALSE,06/11/2022
+54,0.09,50.0,2218,Ironman,English Strong Ale,16.0,TRUE,10/01/2023
+55,46,15.0,2217,Honey Kolsch,Kölsch,16.0,TRUE,16/09/2022
+56,52.000.000.000.000.000,18.0,2216,Copperhead Amber,Belgian Dark Ale,16.0,TRUE,29/03/2022
+57,59.000.000.000.000.000,75.0,972,Rude Parrot IPA,American IPA,16.0,TRUE,18/03/2022
+58,54.000.000.000.000.000,30.0,866,British Pale Ale (2010),English Pale Ale,16.0,TRUE,22/03/2022
+59,54.000.000.000.000.000,30.0,48,British Pale Ale,English Pale Ale,16.0,FALSE,11/08/2022
+60,84,82.0,47,Ballz Deep Double IPA,American Double / Imperial IPA,16.0,TRUE,19/07/2022
+61,38,,1583,Wolfman's Berliner,Berliner Weissbier,12.0,TRUE,01/08/2022
+62,55,26.0,1165,Colorado Native,American Amber / Red Lager,12.0,TRUE,17/05/2022
+63,55,26.0,431,Colorado Native (2011),American Amber / Red Lager,12.0,FALSE,02/06/2022
+64,65,52.0,516,Jockamo IPA,American IPA,12.0,FALSE,27/05/2022
+65,42,13.0,515,Purple Haze,Fruit / Vegetable Beer,12.0,TRUE,11/10/2022
+66,45,17.0,514,Abita Amber,American Amber / Red Lager,12.0,FALSE,28/09/2022
+67,8.199.999.999.999.990,68.0,2540,Citra Ass Down,American IPA,16.0,TRUE,29/12/2022
+68,0.05,20.0,2539,The Brown Note,American Brown Ale,16.0,TRUE,02/11/2022
+69,0.08,68.0,2686,Citra Ass Down,American Double / Imperial IPA,16.0,FALSE,30/11/2022
+70,125,80.0,2685,London Balling,English Barleywine,16.0,FALSE,09/11/2022
+71,77,25.0,2684,35 K,Milk / Sweet Stout,16.0,FALSE,18/12/2022
+72,42,42.0,2683,A Beer,American Pale Ale (APA),16.0,TRUE,10/05/2022
+73,0.05,25.0,2682,Rules are Rules,German Pilsener,16.0,FALSE,16/04/2022
+74,66,21.0,2681,Flesh Gourd'n,Pumpkin Ale,16.0,TRUE,14/10/2022
+75,0.04,13.0,2680,Sho'nuff,Belgian Pale Ale,16.0,TRUE,25/01/2023
+76,55,17.0,2679,Bloody Show,American Pilsner,16.0,FALSE,21/12/2022
+77,76,68.0,2678,Rico Sauvin,American Double / Imperial IPA,16.0,FALSE,22/02/2023
+78,51,38.0,2677,Coq de la Marche,Saison / Farmhouse Ale,16.0,FALSE,20/05/2022
+79,65,,2676,Kamen Knuddeln,American Wild Ale,16.0,FALSE,11/10/2022
+80,0.06,65.0,2675,Pile of Face,American IPA,16.0,TRUE,21/03/2022
+81,0.05,20.0,2674,The Brown Note,English Brown Ale,16.0,TRUE,10/07/2022
+82,53,35.0,1594,Maylani's Coconut Stout,American Stout,16.0,TRUE,01/10/2022
+83,0.05,35.0,1162,Oatmeal PSA,American Pale Ale (APA),16.0,FALSE,27/03/2022
+84,52.000.000.000.000.000,33.0,1137,Pre Flight Pilsner,American Pilsner,16.0,TRUE,06/02/2023
+85,0.04,20.0,2403,P-Town Pilsner,American Pilsner,12.0,TRUE,27/02/2023
+86,53,36.0,2402,Klickitat Pale Ale,American Pale Ale (APA),12.0,TRUE,15/08/2022
+87,8.199.999.999.999.990,103.0,2401,Yellow Wolf Imperial IPA,American Double / Imperial IPA,12.0,TRUE,28/07/2022
+88,53,40.0,1921,Freeride APA,American Pale Ale (APA),12.0,FALSE,25/08/2022
+89,53,18.0,1920,Alaskan Amber,Altbier,12.0,TRUE,06/11/2022
+90,57,,2501,Hopalicious,American Pale Ale (APA),12.0,FALSE,13/01/2023
+91,43,,1535,Kentucky Kölsch,Kölsch,16.0,TRUE,20/08/2022
+92,65,,1149,Kentucky IPA,American IPA,16.0,FALSE,16/12/2022
+93,54.000.000.000.000.000,,1474,Dusty Trail Pale Ale,American Pale Ale (APA),16.0,FALSE,21/01/2023
+94,62,,1473,Damnesia,American IPA,16.0,TRUE,09/05/2022
+95,62,43.0,837,Desolation IPA,American IPA,16.0,TRUE,19/01/2023
+96,59.000.000.000.000.000,,2592,Liberty Ale,American IPA,12.0,TRUE,03/03/2023
+97,65,,2578,IPA,American IPA,12.0,TRUE,28/02/2023
+98,45,,2577,Summer Wheat,American Pale Wheat Ale,12.0,FALSE,06/10/2022
+99,49,,2103,California Lager,American Amber / Red Lager,12.0,TRUE,18/12/2022
+100,55.999.999.999.999.900,,2102,Brotherhood Steam,California Common / Steam Beer,12.0,TRUE,28/08/2022
+101,42,,2291,Blood Orange Gose,Gose,12.0,FALSE,05/01/2023
+102,42,,1818,Keebarlin' Pale Ale,American Pale Ale (APA),12.0,FALSE,24/01/2023
+103,48,,1738,"the Kimmie, the Yink and the Holy Gose",Gose,12.0,FALSE,05/07/2022
+104,0.06,,1563,Fall Hornin',Pumpkin Ale,12.0,FALSE,29/05/2022
+105,57,13.0,1520,Barney Flats Oatmeal Stout,Oatmeal Stout,12.0,TRUE,10/08/2022
+106,55.999.999.999.999.900,4.0,1350,Summer Solstice,Cream Ale,12.0,TRUE,23/12/2022
+107,0.07,80.0,1327,Hop Ottin' IPA,American IPA,12.0,TRUE,20/01/2023
+108,57.999.999.999.999.900,15.0,1326,Boont Amber Ale,American Amber / Red Ale,12.0,FALSE,26/11/2022
+109,57,13.0,1221,Barney Flats Oatmeal Stout,Oatmeal Stout,12.0,FALSE,19/02/2023
+110,55,25.0,1217,El Steinber Dark Lager,Vienna Lager,16.0,TRUE,13/04/2022
+111,57.999.999.999.999.900,15.0,811,Boont Amber Ale (2010),American Amber / Red Ale,12.0,TRUE,08/06/2022
+112,55.999.999.999.999.900,4.0,753,Summer Solstice Cerveza Crema (2009),Cream Ale,12.0,TRUE,24/11/2022
+113,57,13.0,572,Barney Flats Oatmeal Stout (2012),Oatmeal Stout,12.0,TRUE,17/03/2022
+114,69,6.0,523,Winter Solstice,Winter Warmer,12.0,TRUE,29/10/2022
+115,0.07,80.0,367,Hop Ottin' IPA (2011),American IPA,12.0,FALSE,06/10/2022
+116,57.999.999.999.999.900,15.0,78,Boont Amber Ale (2011),American Amber / Red Ale,12.0,TRUE,07/10/2022
+117,55.999.999.999.999.900,4.0,77,Summer Solstice (2011),Cream Ale,12.0,FALSE,20/12/2022
+118,55,28.0,76,Poleeko Gold Pale Ale (2009),American Pale Ale (APA),12.0,TRUE,09/01/2023
+119,0.06,,2337,Charlie's Rye IPA,American IPA,16.0,TRUE,23/02/2023
+120,54.000.000.000.000.000,,410,River Pig Pale Ale,American Pale Ale (APA),16.0,FALSE,29/07/2022
+121,47,,409,Oaky's Oatmeal Stout,Oatmeal Stout,16.0,TRUE,28/03/2022
+122,0.05,,1294,Angry Orchard Apple Ginger,Cider,16.0,FALSE,12/09/2022
+123,0.05,,1293,Angry Orchard Crisp Apple,Cider,16.0,FALSE,03/06/2022
+124,0.05,,1292,Angry Orchard Crisp Apple,Cider,12.0,TRUE,26/02/2023
+125,68,,2207,Golden One,Belgian Pale Ale,12.0,FALSE,12/10/2022
+126,0.06,,2040,Arjuna,Witbier,12.0,TRUE,16/11/2022
+127,85,,2039,Uroboros,American Stout,12.0,FALSE,02/02/2023
+128,71,75.0,2511,Long Leaf,American IPA,16.0,TRUE,14/01/2023
+129,47,19.0,2510,Honey Badger Blonde,American Blonde Ale,16.0,TRUE,29/07/2022
+130,0.06,23.0,2509,Porter (a/k/a Black Gold Porter),American Porter,16.0,TRUE,05/11/2022
+131,0.06,55.0,413,Sky High Rye,American Pale Ale (APA),12.0,TRUE,22/05/2022
+132,62,17.0,390,Whitsun,American Pale Wheat Ale,12.0,TRUE,25/08/2022
+133,52.000.000.000.000.000,,735,On-On Ale (2008),American Pale Ale (APA),12.0,TRUE,02/05/2022
+134,92,50.0,1333,Quakertown Stout,American Double / Imperial Stout,12.0,FALSE,25/09/2022
+135,51,20.0,1332,Greenbelt Farmhouse Ale,Saison / Farmhouse Ale,12.0,TRUE,04/07/2022
+136,52.000.000.000.000.000,10.0,1172,Mo's Gose,Gose,16.0,FALSE,10/09/2022
+137,0.07,45.0,1322,Green Bullet Organic India Pale Ale,American IPA,16.0,TRUE,21/11/2022
+138,32,27.0,550,Rocket Girl,Kölsch,12.0,TRUE,19/07/2022
+139,53,26.0,429,Ninja Porter,American Porter,12.0,TRUE,28/12/2022
+140,0.06,69.0,428,Shiva IPA,American IPA,12.0,FALSE,30/05/2022
+141,48,,1640,Aslan Kölsch,Kölsch,16.0,TRUE,25/01/2023
+142,77,,1639,Aslan IPA,American IPA,16.0,FALSE,24/08/2022
+143,77,,1638,Aslan Amber,American Amber / Red Ale,16.0,FALSE,06/03/2023
+144,55.999.999.999.999.900,27.0,597,This Season's Blonde,American Blonde Ale,12.0,TRUE,21/04/2022
+145,0.07,67.0,596,Independence Pass Ale,American IPA,12.0,TRUE,15/09/2022
+146,57,40.0,1580,Trolley Stop Stout,American Stout,12.0,TRUE,07/08/2022
+147,8.199.999.999.999.990,138.0,980,Bitter Bitch Imperial IPA,American Double / Imperial IPA,12.0,TRUE,24/05/2022
+148,62,35.0,979,Poop Deck Porter,American Porter,12.0,FALSE,30/07/2022
+149,0.06,35.0,978,Old Red Beard Amber Ale,American Amber / Red Ale,12.0,TRUE,14/01/2023
+150,75,115.0,2503,Hop A-Peel,American Double / Imperial IPA,16.0,FALSE,24/03/2022
+151,55,12.0,2502,Vanilla Java Porter,American Porter,16.0,TRUE,14/07/2022
+152,52.000.000.000.000.000,,2495,Michelada,Fruit / Vegetable Beer,16.0,FALSE,16/11/2022
+153,45,8.0,534,Dirty Blonde Ale,American Blonde Ale,12.0,FALSE,01/08/2022
+154,0.05,62.0,528,Grand Circus IPA,American IPA,12.0,TRUE,01/05/2022
+155,0.05,12.0,527,Atwater's Lager,Munich Helles Lager,12.0,TRUE,03/01/2023
+156,0.07,,1409,Heavy Machinery IPA Series #1: Heavy Fist,American Black Ale,16.0,FALSE,04/02/2023
+157,62,,343,Fire Eagle IPA,American IPA,12.0,TRUE,05/09/2022
+158,51,,342,Peacemaker,American Pale Ale (APA),12.0,FALSE,17/12/2022
+159,53,,341,Pearl-Snap,German Pilsener,12.0,TRUE,20/02/2023
+160,52.000.000.000.000.000,,340,Black Thunder,Schwarzbier,12.0,FALSE,14/09/2022
+161,0.08,,2589,Raja,American Double / Imperial IPA,12.0,FALSE,21/04/2022
+162,64,,2546,Perzik Saison,Saison / Farmhouse Ale,12.0,FALSE,25/05/2022
+163,47,42.0,146,Avery Joe’s Premium American Pilsner,German Pilsener,12.0,TRUE,21/03/2022
+164,55.999.999.999.999.900,10.0,108,White Rascal,Witbier,12.0,TRUE,12/06/2022
+165,63,69.0,107,Avery India Pale Ale,American IPA,12.0,TRUE,18/05/2022
+166,55,17.0,106,Ellie’s Brown Ale,American Brown Ale,12.0,FALSE,15/12/2022
+167,62,17.0,1620,Pumpkin Beast,Pumpkin Ale,12.0,TRUE,14/03/2022
+168,7.200.000.000.000.000,22.0,1579,OktoberBeast,Märzen / Oktoberfest,12.0,FALSE,01/04/2022
+169,48,23.0,1228,Mad Beach,American Pale Wheat Ale,12.0,FALSE,13/02/2023
+170,67,,705,Hog Wild India Pale Ale,American IPA,12.0,FALSE,06/07/2022
+171,92,5.0,704,Devils Tramping Ground Tripel,Tripel,12.0,FALSE,10/04/2022
+172,61,41.0,702,Hot Rod Red,American Amber / Red Ale,12.0,FALSE,21/08/2022
+173,86,,2058,Palate Mallet,American Double / Imperial IPA,12.0,FALSE,25/07/2022
+174,0.06,,1483,Back East Porter,American Porter,12.0,TRUE,26/07/2022
+175,49,,1426,Back East Golden Ale,American Blonde Ale,12.0,FALSE,08/11/2022
+176,0.07,,1132,Misty Mountain IPA,American IPA,12.0,TRUE,19/07/2022
+177,0.05,,1131,Back East Ale,American Amber / Red Ale,12.0,FALSE,01/11/2022
+178,0.06,,1876,Truck Stop Honey Brown Ale,English Brown Ale,12.0,TRUE,22/11/2022
+179,0.06,43.0,1875,Naked Pig Pale Ale,American Pale Ale (APA),12.0,FALSE,05/03/2023
+180,68,70.0,966,Topcutter India Pale Ale,American IPA,12.0,FALSE,29/10/2022
+181,44.000.000.000.000.000,38.0,965,Field 41 Pale Ale,American Pale Ale (APA),12.0,FALSE,24/04/2022
+182,0.07,,2593,Grapefruit Sculpin,American IPA,12.0,FALSE,06/04/2022
+183,38,40.0,2105,Even Keel,American IPA,12.0,FALSE,06/11/2022
+184,52.000.000.000.000.000,23.0,1401,Ballast Point Pale Ale,Kölsch,12.0,TRUE,11/05/2022
+185,0.07,75.0,1400,Big Eye India Pale Ale,American IPA,12.0,FALSE,11/09/2022
+186,46,,1019,Longfin Lager,Munich Helles Lager,12.0,TRUE,12/10/2022
+187,0.07,70.0,1018,Sculpin IPA,American IPA,12.0,FALSE,06/03/2023
+188,45,,1776,All Nighter Ale,Extra Special / Strong Bitter (ESB),12.0,TRUE,19/08/2022
+189,45,20.0,1644,Banner American Rye,Rye Beer,12.0,TRUE,16/02/2023
+190,35,45.0,1643,Banner American Ale,American Amber / Red Ale,12.0,TRUE,29/03/2022
+191,0.07,46.0,2618,Thai.p.a,American IPA,16.0,TRUE,05/07/2022
+192,0.06,60.0,2005,Barrio Blanco,American IPA,12.0,TRUE,02/05/2022
+193,45,,1343,Barrio Tucson Blonde,American Blonde Ale,12.0,FALSE,27/08/2022
+194,49,22.0,2404,Hop in the ‘Pool Helles,American Pilsner,12.0,FALSE,11/07/2022
+195,67,60.0,2323,Ultra Gnar Gnar IPA,American IPA,12.0,FALSE,06/02/2023
+196,68,62.0,2189,In-Tents India Pale Lager,American Pale Lager,12.0,FALSE,30/07/2022
+197,0.05,20.0,2188,Lost Meridian Wit,Witbier,12.0,TRUE,27/07/2022
+198,51,45.0,2187,Celestial Meridian Cascadian Dark Lager,Euro Dark Lager,12.0,FALSE,06/01/2023
+199,54.000.000.000.000.000,55.0,1966,Wagon Party,California Common / Steam Beer,12.0,FALSE,30/08/2022
+200,67,70.0,1965,Sky-Five,American IPA,12.0,FALSE,04/07/2022
+201,0.05,28.0,1964,Stargrazer,Schwarzbier,12.0,TRUE,15/09/2022
+202,54.000.000.000.000.000,48.0,1963,Wonderstuff,German Pilsener,12.0,FALSE,07/04/2022
+203,53,,1855,Tarnation California-Style Lager,California Common / Steam Beer,12.0,TRUE,16/11/2022
+204,0.07,42.0,1778,On the Count of 3 (2015),Hefeweizen,16.0,FALSE,30/01/2023
+205,47,,1209,Summer Swelter,American Pale Wheat Ale,12.0,TRUE,30/10/2022
+206,68,,954,Phantom Punch Winter Stout,Foreign / Export Stout,12.0,TRUE,07/07/2022
+207,66,,910,Hayride Autumn Ale,Rye Beer,12.0,TRUE,19/09/2022
+208,47,,707,Celsius Summer Ale (2012),American Pale Wheat Ale,12.0,TRUE,24/04/2022
+209,55,35.0,533,Amber Road,American Amber / Red Ale,12.0,FALSE,02/12/2022
+210,49,28.0,183,Pamola Xtra Pale Ale,American Pale Ale (APA),12.0,FALSE,31/03/2022
+211,69,69.0,182,Stowaway IPA,American IPA,12.0,FALSE,22/01/2023
+212,8.800.000.000.000.000,108.0,1806,Hoptopus Double IPA,American Double / Imperial IPA,16.0,FALSE,11/08/2022
+213,0.05,10.0,2435,Watermelon Ale,Fruit / Vegetable Beer,12.0,FALSE,23/02/2023
+214,57.999.999.999.999.900,45.0,2423,Fenway American Pale Ale,American Pale Ale (APA),12.0,FALSE,07/12/2022
+215,68,85.0,2420,Back Bay IPA,American IPA,12.0,TRUE,30/09/2022
+216,48,16.0,2419,Bunker Hill Blueberry Ale,Other,12.0,TRUE,04/02/2023
+217,57.999.999.999.999.900,,2494,Oberon,American Pale Wheat Ale,12.0,TRUE,29/05/2022
+218,0.06,,2325,Smitten,Rye Beer,16.0,TRUE,05/01/2023
+219,0.05,,2022,Winter White,Witbier,16.0,FALSE,26/10/2022
+220,57.999.999.999.999.900,,1989,Oberon,American Pale Wheat Ale,16.0,FALSE,26/01/2023
+221,0.07,,1988,Two Hearted,American IPA,16.0,TRUE,06/07/2022
+222,57.999.999.999.999.900,,1955,Best Brown,American Brown Ale,16.0,TRUE,12/02/2023
+223,44.000.000.000.000.000,44.0,2558,Moar,English India Pale Ale (IPA),12.0,FALSE,14/01/2023
+224,83,,2557,Uber Lupin Schwarz IPA,American Double / Imperial IPA,16.0,TRUE,23/05/2022
+225,57,27.0,2556,Nordic Blonde,American Blonde Ale,12.0,FALSE,04/07/2022
+226,0.06,,2496,Cold Press,American Black Ale,12.0,FALSE,05/08/2022
+227,7.200.000.000.000.000,87.0,2410,Harness the Winter,American IPA,12.0,FALSE,30/09/2022
+228,55.999.999.999.999.900,32.0,1902,14° ESB,Extra Special / Strong Bitter (ESB),12.0,TRUE,23/06/2022
+229,62,68.0,1901,Bent Hop Golden IPA,American IPA,12.0,TRUE,20/11/2022
+230,0.06,34.0,1261,Bent Paddle Black Ale,American Black Ale,12.0,TRUE,28/05/2022
+231,0.05,38.0,1253,Venture Pils,German Pilsener,12.0,FALSE,09/06/2022
+232,55,40.0,1900,Lost Sailor IPA,English India Pale Ale (IPA),12.0,TRUE,08/09/2022
+233,53,20.0,1317,Steel Rail Extra Pale Ale,American Pale Ale (APA),12.0,FALSE,04/04/2022
+234,78,,1158,La Frontera Premium IPA,American IPA,12.0,FALSE,18/04/2022
+235,47,,1157,Tejas Lager,Czech Pilsener,12.0,TRUE,10/01/2023
+236,64,,1156,Number 22 Porter,American Porter,12.0,FALSE,03/09/2022
+237,55.999.999.999.999.900,,1155,Big Bend Hefeweizen,Hefeweizen,12.0,TRUE,15/04/2022
+238,0.06,,1154,Terlingua Gold,American Blonde Ale,12.0,TRUE,03/03/2023
+239,81,17.0,2104,Aprè Shred,American Strong Ale,16.0,FALSE,07/06/2022
+240,95,104.0,1762,Hemlock Double IPA,American Double / Imperial IPA,12.0,TRUE,03/04/2022
+241,40.999.999.999.999.900,,1422,West Portal Colorado Common Summer Ale,California Common / Steam Beer,16.0,TRUE,08/10/2022
+242,67,85.0,1067,Disconnected Red,American Amber / Red Ale,16.0,FALSE,10/01/2023
+243,0.07,,1003,Big Elm IPA,American IPA,12.0,TRUE,16/04/2022
+244,65,,1002,Gerry Dog Stout,American Stout,12.0,TRUE,28/02/2023
+245,0.06,,1001,413 Farmhouse Ale,Saison / Farmhouse Ale,12.0,FALSE,14/03/2022
+246,0.08,54.0,2639,Dark Star,American Stout,16.0,FALSE,09/07/2022
+247,62,,2469,Ryecoe,American IPA,16.0,FALSE,05/09/2022
+248,0.06,,2586,Blueberry Blonde,Fruit / Vegetable Beer,12.0,FALSE,06/05/2022
+249,75,60.0,2585,Galaxy IPA,American IPA,16.0,FALSE,01/10/2022
+250,0.05,32.0,643,Big River Pilsner,Czech Pilsener,12.0,TRUE,18/08/2022
+251,0.06,55.0,632,House Brand IPA,American IPA,12.0,TRUE,26/01/2023
+252,62,65.0,1714,Big Sky IPA,American IPA,12.0,TRUE,09/01/2023
+253,0.05,40.0,1713,Scape Goat Pale Ale,English Pale Ale,12.0,FALSE,08/10/2022
+254,0.05,35.0,1712,Montana Trout Slayer Ale,American Pale Wheat Ale,12.0,FALSE,27/02/2023
+255,51,26.0,1711,Moose Drool Brown Ale,American Brown Ale,12.0,FALSE,06/03/2023
+256,7.200.000.000.000.000,60.0,1456,Powder Hound Winter Ale,English Strong Ale,12.0,TRUE,08/08/2022
+257,51,26.0,767,Moose Drool Brown Ale (2011),American Brown Ale,12.0,FALSE,01/04/2022
+258,0.05,35.0,766,Montana Trout Slayer Ale (2012),American Pale Wheat Ale,12.0,TRUE,06/08/2022
+259,62,65.0,579,Big Sky IPA (2012),American IPA,12.0,FALSE,08/12/2022
+260,47,,168,Summer Honey,American Blonde Ale,12.0,FALSE,21/10/2022
+261,0.05,40.0,159,Scape Goat Pale Ale (2010),English Pale Ale,12.0,FALSE,06/12/2022
+262,0.05,35.0,35,Montana Trout Slayer Ale (2009),American Pale Wheat Ale,12.0,TRUE,14/02/2023
+263,51,26.0,34,Moose Drool Brown Ale (2009),American Brown Ale,12.0,FALSE,21/06/2022
+264,69,81.0,2096,Arcus IPA,American IPA,12.0,TRUE,09/10/2022
+265,57.999.999.999.999.900,38.0,2095,Wavemaker,American Amber / Red Ale,12.0,FALSE,27/05/2022
+266,53,43.0,1257,Jack Pine Savage,American Pale Ale (APA),16.0,TRUE,10/08/2022
+267,99,85.0,1256,Forest Fire Imperial Smoked Rye,Rye Beer,16.0,FALSE,10/01/2023
+268,98,76.0,1255,Bad Axe Imperial IPA,American Double / Imperial IPA,16.0,FALSE,22/04/2022
+269,55,35.0,986,Morning Wood,Oatmeal Stout,16.0,TRUE,07/01/2023
+270,66,50.0,985,Bark Bite IPA,American IPA,16.0,FALSE,01/01/2023
+271,55,45.0,2508,Jalapeno Pale Ale,American Pale Ale (APA),16.0,FALSE,06/12/2022
+272,52.000.000.000.000.000,,1441,Blown Out Brown,American Brown Ale,12.0,FALSE,12/01/2023
+273,63,,1413,Single Hop Ale,American Pale Ale (APA),12.0,FALSE,25/06/2022
+274,54.000.000.000.000.000,,1411,Sawtooth Ale,American Blonde Ale,12.0,TRUE,22/02/2023
+275,7.200.000.000.000.000,75.0,2620,Saucy Intruder,Rye Beer,16.0,TRUE,16/06/2022
+276,45,16.0,2412,Deception,American Blonde Ale,12.0,FALSE,14/10/2022
+277,75,35.0,1898,Blackmarket Rye IPA,American IPA,12.0,FALSE,10/02/2023
+278,0.05,8.0,1897,Black Market Hefeweizen,Hefeweizen,12.0,TRUE,30/11/2022
+279,57.999.999.999.999.900,44.0,1896,Aftermath Pale Ale,American Pale Ale (APA),12.0,FALSE,10/11/2022
+280,71,83.0,1850,American India Red Ale,American Strong Ale,12.0,TRUE,06/06/2022
+281,71,45.0,1849,American Red Porter,American Porter,12.0,FALSE,22/02/2023
+282,78,34.0,1848,American Red Saison,Saison / Farmhouse Ale,12.0,FALSE,18/05/2022
+283,66,44.0,1847,Colorado Red Ale,American Amber / Red Ale,12.0,TRUE,22/08/2022
+284,48,16.0,2485,Saddle Bronc Brown Ale,American Brown Ale,12.0,TRUE,24/10/2022
+285,46,20.0,2484,Bomber Mountain Amber Ale,American Amber / Red Ale,12.0,FALSE,29/11/2022
+286,73,,2449,Flying Sailor,Rye Beer,12.0,FALSE,18/02/2023
+287,48,47.0,2634,Nordskye,American IPA,12.0,FALSE,09/04/2022
+288,0.06,30.0,2153,North Third Stout,Foreign / Export Stout,12.0,FALSE,18/07/2022
+289,52.000.000.000.000.000,,1953,Honey Lav,American Pale Wheat Ale,12.0,FALSE,22/03/2022
+290,68,,1496,Coconut Brown Ale,American Brown Ale,12.0,TRUE,23/04/2022
+291,0.07,51.0,1481,51K IPA,American IPA,12.0,FALSE,12/11/2022
+292,55,,1480,Grand Rabbits,Cream Ale,12.0,TRUE,18/08/2022
+293,0.05,,1564,1800 Big Log Wheat (2012),American Pale Wheat Ale,12.0,FALSE,29/07/2022
+294,,,1541,Double Play Pilsner,American Pilsner,12.0,TRUE,21/05/2022
+295,55,,1321,Brewerhood Brown Ale,American Brown Ale,12.0,FALSE,26/01/2023
+296,0.08,,1320,Last Call Imperial Amber Ale,American Amber / Red Ale,12.0,FALSE,23/03/2022
+297,96,,1319,Pernicious Double IPA,American Double / Imperial IPA,12.0,FALSE,21/06/2022
+298,52.000.000.000.000.000,,1303,6-4-3 Double Play Pilsner,German Pilsener,12.0,TRUE,18/05/2022
+299,,,1025,N Street Drive-In 50th Anniversary IPA,American Double / Imperial IPA,12.0,TRUE,28/12/2022
+300,0.05,,1012,467 Ethan's Stout,American Stout,12.0,FALSE,30/07/2022
+301,64,,942,1335 Wicked Snout,Saison / Farmhouse Ale,12.0,TRUE,03/09/2022
+302,45,,937,543 Skull Creek Fresh Hopped Pale Ale,American Pale Ale (APA),12.0,TRUE,29/10/2022
+303,55.999.999.999.999.900,37.0,888,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),12.0,FALSE,29/12/2022
+304,55.999.999.999.999.900,37.0,886,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),12.0,FALSE,15/04/2022
+305,55.999.999.999.999.900,37.0,612,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),12.0,TRUE,07/11/2022
+306,46,35.0,611,834 Happy As Ale,American Pale Ale (APA),12.0,TRUE,01/01/2023
+307,59.000.000.000.000.000,,1372,Yellow Collar,Mead,12.0,FALSE,28/05/2022
+308,59.000.000.000.000.000,,1371,Green Collar,Mead,12.0,TRUE,13/11/2022
+309,0.08,80.0,1812,Quarter Mile Double IPA,American Double / Imperial IPA,12.0,FALSE,29/12/2022
+310,59.000.000.000.000.000,60.0,1547,Full Nelson Pale Ale,American Pale Ale (APA),12.0,TRUE,29/05/2022
+311,65,30.0,1546,Steel Wheels ESB,Extra Special / Strong Bitter (ESB),12.0,FALSE,04/09/2022
+312,53,22.0,1545,Blue Mountain Classic Lager,Euro Pale Lager,12.0,TRUE,15/02/2023
+313,59.000.000.000.000.000,60.0,119,Full Nelson Pale Ale (2010),American Pale Ale (APA),12.0,FALSE,15/05/2022
+314,49,16.0,1408,Kölsch 151,Kölsch,12.0,FALSE,05/07/2022
+315,,,2490,Professor Black,American Stout,12.0,TRUE,07/12/2022
+316,,,2489,Little Boss,American Pale Wheat Ale,12.0,FALSE,02/01/2023
+317,,,2488,Van Dayum!,American Amber / Red Ale,12.0,FALSE,21/09/2022
+318,,,2487,Spirit Animal,American Pale Ale (APA),12.0,TRUE,07/03/2022
+319,0.07,,939,Toxic Sludge,American Black Ale,16.0,TRUE,22/07/2022
+320,0.06,40.0,692,Blue Point White IPA,American White IPA,12.0,TRUE,26/03/2022
+321,44.000.000.000.000.000,16.0,667,Blue Point Summer Ale,American Blonde Ale,12.0,FALSE,09/09/2022
+322,55,28.0,665,Toasted Lager,Vienna Lager,12.0,TRUE,07/05/2022
+323,0.06,,1607,Bohemian Export Lager,Dortmunder / Export Lager,12.0,FALSE,07/05/2022
+324,53,,1597,Altus Bohemes Altbier,Altbier,12.0,FALSE,09/04/2022
+325,0.04,,344,Cherny Bock,Schwarzbier,12.0,TRUE,07/04/2022
+326,0.05,,89,Czech Pilsner,Czech Pilsener,12.0,FALSE,18/05/2022
+327,0.05,,88,Viennese Lager,Vienna Lager,12.0,FALSE,23/12/2022
+328,65,,1569,Mad Manatee IPA,American IPA,12.0,FALSE,23/09/2022
+329,55,,1568,Killer Whale Cream Ale,Cream Ale,12.0,FALSE,25/07/2022
+330,0.06,,1188,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,FALSE,17/05/2022
+331,42,30.0,1891,Longhop IPA,American IPA,16.0,FALSE,04/10/2022
+332,0.04,34.0,1890,Lucky Buck,Irish Dry Stout,16.0,FALSE,20/03/2022
+333,51,,577,Bomb Lager (New Recipe),Munich Helles Lager,12.0,FALSE,13/12/2022
+334,45,27.0,513,Bomb Lager (Old Recipe),Munich Helles Lager,12.0,TRUE,09/05/2022
+335,66,72.0,2422,Firestarter India Pale Ale,American IPA,12.0,FALSE,23/07/2022
+336,75,22.0,1727,Kilt Dropper Scotch Ale,Scotch Ale / Wee Heavy,16.0,FALSE,15/03/2022
+337,48,30.0,1614,Wood Splitter Pilsner,Czech Pilsener,16.0,TRUE,30/05/2022
+338,55.999.999.999.999.900,26.0,1613,Gyptoberfest,Märzen / Oktoberfest,12.0,FALSE,08/10/2022
+339,0.07,94.0,1549,Farmer Wirtz India Pale Ale,English India Pale Ale (IPA),16.0,TRUE,28/03/2022
+340,47,,1548,Slow & Steady Golden Ale,American Blonde Ale,12.0,TRUE,24/06/2022
+341,68,,1517,Pink-I Raspberry IPA,American IPA,16.0,FALSE,25/07/2022
+342,47,,1500,Moe's Original Bar B Que 'Bama Brew Golden Ale,American Blonde Ale,12.0,FALSE,14/10/2022
+343,47,,1421,Live Local Golden Ale,American Blonde Ale,12.0,TRUE,25/02/2023
+344,48,38.0,1360,Screaming Eagle Special Ale ESB,Extra Special / Strong Bitter (ESB),12.0,TRUE,18/12/2022
+345,49,,1184,Dirtbag Dunkel,Munich Dunkel Lager,16.0,TRUE,11/04/2022
+346,53,45.0,1183,Kindler Pale Ale,American Pale Ale (APA),12.0,FALSE,04/04/2022
+347,64,,1023,Mistress Winter Wheat,Winter Warmer,12.0,FALSE,17/05/2022
+348,61,,998,Tent Pole Vanilla Porter,American Porter,16.0,TRUE,03/01/2023
+349,57.999.999.999.999.900,,997,Awry Rye Pale Ale,American Pale Ale (APA),12.0,FALSE,29/11/2022
+350,57.999.999.999.999.900,,996,Demshitz Brown Ale,American Brown Ale,12.0,TRUE,17/04/2022
+351,48,,931,Wood Splitter Pilsner (2012),Czech Pilsener,12.0,FALSE,17/10/2022
+352,48,,798,Brush Creek Blonde,American Blonde Ale,16.0,FALSE,12/05/2022
+353,66,72.0,633,Firestarter India Pale Ale,American IPA,16.0,TRUE,31/01/2023
+354,71,16.0,2062,Noche Dulce,American Porter,16.0,FALSE,26/01/2023
+355,45,8.0,1830,Porch Rocker,Radler,12.0,FALSE,18/05/2022
+356,65,45.0,1629,Rebel IPA,American IPA,16.0,FALSE,30/06/2022
+357,55,,1601,Cold Snap,Witbier,12.0,TRUE,08/05/2022
+358,55.999.999.999.999.900,,1427,Samuel Adams Winter Lager,Bock,12.0,TRUE,14/02/2023
+359,49,30.0,1349,Boston Lager,Vienna Lager,16.0,TRUE,01/01/2023
+360,49,30.0,1310,Boston Lager,Vienna Lager,12.0,TRUE,16/08/2022
+361,53,15.0,1281,Samuel Adams Octoberfest,Märzen / Oktoberfest,12.0,FALSE,23/05/2022
+362,53,7.0,1144,Samuel Adams Summer Ale,American Pale Wheat Ale,12.0,TRUE,02/10/2022
+363,49,30.0,1143,Boston Lager,Vienna Lager,12.0,TRUE,10/08/2022
+364,49,35.0,1395,Hazed & Infused,American Pale Ale (APA),12.0,TRUE,06/03/2023
+365,57,35.0,808,Hoopla Pale Ale,American Pale Ale (APA),12.0,TRUE,17/01/2023
+366,49,35.0,81,Hazed & Infused (2010),American Pale Ale (APA),12.0,TRUE,27/01/2023
+367,62,80.0,2596,Heavy Lifting,American IPA,12.0,TRUE,13/11/2022
+368,65,,2300,1492,American Pale Ale (APA),12.0,FALSE,27/10/2022
+369,57.999.999.999.999.900,,2299,Mango Ginger,American IPA,12.0,TRUE,24/02/2023
+370,47,,2298,Passenger,English Dark Mild Ale,12.0,FALSE,27/10/2022
+371,0.06,52.0,2107,Plum St. Porter,American Porter,12.0,FALSE,25/02/2023
+372,57,52.0,1573,Plum St. Porter,American Porter,12.0,FALSE,20/02/2023
+373,0.07,80.0,1289,Bozone HopZone IPA,American IPA,12.0,TRUE,16/10/2022
+374,0.06,25.0,1288,Bozone Hefe Weizen,Hefeweizen,12.0,FALSE,28/01/2023
+375,55,,470,Bozone Select Amber Ale,American Amber / Red Ale,12.0,TRUE,08/02/2023
+376,52.000.000.000.000.000,40.0,2167,Evil Owl,American Amber / Red Ale,12.0,TRUE,06/08/2022
+377,0.05,,2204,Post Time Kölsch,Kölsch,16.0,FALSE,11/04/2022
+378,42,9.0,1522,Agave Wheat,American Pale Wheat Ale,12.0,FALSE,19/03/2022
+379,45,15.0,397,SummerBright Ale,American Pale Wheat Ale,12.0,TRUE,08/06/2022
+380,62,68.0,193,Lucky U IPA,American IPA,12.0,FALSE,14/09/2022
+381,54.000.000.000.000.000,19.0,83,Avalanche Ale,American Amber / Red Ale,12.0,TRUE,07/12/2022
+382,0.05,,1802,"You're My Boy, Blue",Fruit / Vegetable Beer,12.0,FALSE,24/02/2023
+383,7.200.000.000.000.000,60.0,1801,Last Stop IPA,American IPA,12.0,TRUE,23/04/2022
+384,0.05,21.0,1800,Rollin Dirty Red Ale,Irish Red Ale,12.0,FALSE,23/05/2022
+385,55,28.0,1799,Are Wheat There Yet?,American Pale Wheat Ale,12.0,TRUE,19/08/2022
+386,57.999.999.999.999.900,,2619,Insert Hop Reference,American Pale Ale (APA),16.0,TRUE,24/06/2022
+387,53,,2468,Manitou Amber,American Amber / Red Ale,16.0,TRUE,13/11/2022
+388,67,,2637,Belfort,Saison / Farmhouse Ale,16.0,TRUE,15/05/2022
+389,0.06,,2636,Star Runner,Belgian Pale Ale,16.0,TRUE,20/03/2022
+390,98,,2598,Tart Side of the Barrel,American Double / Imperial Stout,16.0,FALSE,29/08/2022
+391,0.06,,2597,Linnaeus Mango IPA,American IPA,16.0,FALSE,02/04/2022
+392,0.07,,2548,Beasts A'Burnin',Rauchbier,16.0,FALSE,07/10/2022
+393,77,,2542,Verdun,Bière de Garde,16.0,FALSE,22/11/2022
+394,65,,2541,Barrel Aged Triomphe,Belgian IPA,16.0,TRUE,04/08/2022
+395,65,,2504,Cherry Doppelbock,Doppelbock,16.0,TRUE,30/01/2023
+396,65,,2500,Tropical Saison,Saison / Farmhouse Ale,16.0,FALSE,03/10/2022
+397,65,,2499,Beach Patrol,Witbier,16.0,TRUE,23/10/2022
+398,0.05,,2498,Nuit Serpent,Belgian IPA,16.0,TRUE,18/01/2023
+399,0.09,,2481,Paris,Saison / Farmhouse Ale,16.0,FALSE,27/03/2022
+400,55,,2476,The Grand Army,Belgian IPA,16.0,TRUE,28/08/2022
+401,59.000.000.000.000.000,,2467,Acidulated Trip,Saison / Farmhouse Ale,16.0,TRUE,12/05/2022
+402,66,,2466,Root Stock,Rye Beer,16.0,TRUE,04/06/2022
+403,40.999.999.999.999.900,,2465,Mind Games,Dunkelweizen,16.0,TRUE,06/03/2023
+404,8.199.999.999.999.990,,2433,Sous Chef,Belgian Strong Pale Ale,16.0,TRUE,03/10/2022
+405,65,,2418,Dubbelicious,Dubbel,16.0,FALSE,11/09/2022
+406,62,,2416,Psychopomp,Belgian Dark Ale,16.0,FALSE,07/11/2022
+407,,,2382,Fat Paczki,Belgian Dark Ale,16.0,TRUE,24/06/2022
+408,,,2381,Earth-Like Planets,Belgian Pale Ale,16.0,TRUE,25/06/2022
+409,61,,2290,Ski Patrol,Witbier,16.0,TRUE,18/01/2023
+410,63,,2241,Viking Ice Hole,Oatmeal Stout,16.0,FALSE,28/07/2022
+411,55.999.999.999.999.900,,2240,Rye Porter,American Porter,16.0,FALSE,14/07/2022
+412,99,,2137,Wizard Burial Ground,Quadrupel (Quad),16.0,FALSE,29/05/2022
+413,51,,2101,Smoky Wheat,Rauchbier,16.0,FALSE,29/12/2022
+414,62,,2092,BRIPA,Belgian IPA,16.0,TRUE,10/04/2022
+415,62,,2091,Mela,Belgian Dark Ale,16.0,FALSE,26/09/2022
+416,53,,2086,W.I.P.A Snappa,Belgian IPA,16.0,TRUE,11/04/2022
+417,63,,2023,Pepper in the Rye,Rye Beer,16.0,FALSE,22/03/2022
+418,64,,2006,Moe Lasses',American Stout,16.0,FALSE,16/02/2023
+419,0.07,,1997,Pumpkin Tart,Fruit / Vegetable Beer,16.0,FALSE,17/06/2022
+420,67,,1977,Undertaker,Belgian Dark Ale,16.0,TRUE,13/07/2022
+421,67,,1976,Undertaker (2014),Belgian Dark Ale,16.0,TRUE,13/09/2022
+422,0.05,,1974,Coq D'Or,Belgian Pale Ale,16.0,FALSE,02/12/2022
+423,0.06,,1973,North French,Bière de Garde,16.0,FALSE,31/08/2022
+424,65,,1959,Agent a Deux,Belgian Dark Ale,16.0,TRUE,15/04/2022
+425,45,,1958,Belgian Wit,Witbier,16.0,TRUE,11/09/2022
+426,63,,1949,Pothole Stout,American Stout,16.0,FALSE,08/10/2022
+427,9.300.000.000.000.000,,1947,Tree Bucket,Belgian IPA,16.0,TRUE,07/03/2022
+428,73,,1785,Le Flaneur Ale,American Wild Ale,16.0,FALSE,23/03/2022
+429,55.999.999.999.999.900,,1651,Maize & Blueberry,Fruit / Vegetable Beer,16.0,TRUE,04/01/2023
+430,9.300.000.000.000.000,,1443,Trebuchet Double IPA,American Double / Imperial IPA,16.0,TRUE,01/01/2023
+431,65,,1352,Contemplation,Bière de Garde,16.0,FALSE,31/01/2023
+432,0.05,,1267,Black Rabbit,American Black Ale,16.0,TRUE,24/09/2022
+433,0.09,,1266,Zaison,Saison / Farmhouse Ale,16.0,TRUE,20/06/2022
+434,8.199.999.999.999.990,,1178,Vivant Tripel,Tripel,16.0,TRUE,24/07/2022
+435,98,,1136,Tart Side of the Moon,Belgian Dark Ale,16.0,TRUE,29/04/2022
+436,0.06,,1044,Big Red Coq,American Amber / Red Ale,16.0,FALSE,03/02/2023
+437,99,,1033,Hubris Quadrupel Anniversary Ale,Quadrupel (Quad),16.0,TRUE,21/11/2022
+438,95,,1031,Plow Horse Belgian Style Imperial Stout,American Double / Imperial Stout,16.0,TRUE,20/12/2022
+439,92,,909,Escoffier Bretta Ale,American Wild Ale,16.0,FALSE,11/03/2022
+440,65,,873,Contemplation (2012),Bière de Garde,16.0,FALSE,18/10/2022
+441,99,,860,Vivant Belgian Style Imperial Stout (2012),Russian Imperial Stout,16.0,TRUE,05/10/2022
+442,62,,677,Big Red Coq (2012),American Amber / Red Ale,16.0,FALSE,13/06/2022
+443,0.09,,671,Zaison (2012),Saison / Farmhouse Ale,16.0,TRUE,09/08/2022
+444,92,,670,Vivant Tripel (2012),Tripel,16.0,FALSE,10/11/2022
+445,9.699.999.999.999.990,,669,Trebuchet Double IPA (2012),Belgian IPA,16.0,FALSE,06/06/2022
+446,85,,627,Kludde,Belgian Strong Dark Ale,16.0,TRUE,24/01/2023
+447,55,,387,Farm Hand,Saison / Farmhouse Ale,16.0,TRUE,23/02/2023
+448,0.06,,385,Solitude,Belgian Pale Ale,16.0,FALSE,12/11/2022
+449,65,,384,Triomphe,Belgian IPA,16.0,FALSE,01/02/2023
+450,,,1096,Tampa Pale Ale,American Pale Ale (APA),12.0,FALSE,09/06/2022
+451,,,1095,Orange Grove Wheat Ale,American Pale Wheat Ale,12.0,FALSE,20/04/2022
+452,61,,2456,Broad Brook Ale,American Amber / Red Ale,16.0,FALSE,09/04/2022
+453,0.05,15.0,921,Northern Lights Amber Ale,American Amber / Red Ale,12.0,FALSE,28/08/2022
+454,52.000.000.000.000.000,17.0,920,Polar Pale Ale,American Pale Ale (APA),12.0,TRUE,06/11/2022
+455,48,,919,Chugach Session Ale,Cream Ale,12.0,TRUE,29/12/2022
+456,61,64.0,648,Fairweather IPA,American IPA,12.0,FALSE,09/04/2022
+457,68,47.0,1279,East India Pale Ale,English India Pale Ale (IPA),16.0,TRUE,06/06/2022
+458,45,,756,Brooklyn Summer Ale,English Pale Mild Ale,12.0,TRUE,11/04/2022
+459,68,47.0,566,East India Pale Ale,English India Pale Ale (IPA),12.0,FALSE,24/08/2022
+460,45,,328,Brooklyn Summer Ale (2011),English Pale Mild Ale,12.0,TRUE,28/03/2022
+461,52.000.000.000.000.000,,66,Brooklyn Lager (16 oz.),American Amber / Red Lager,16.0,FALSE,23/06/2022
+462,52.000.000.000.000.000,,65,Brooklyn Lager (12 oz.),American Amber / Red Lager,12.0,FALSE,16/08/2022
+463,0.08,,538,Tour de Nez Belgian IPA (Current),Belgian IPA,16.0,TRUE,19/10/2022
+464,,,504,Roler Bock (Current),Maibock / Helles Bock,16.0,FALSE,31/12/2022
+465,73,85.0,383,Black Adder IBA (Current),American Black Ale,16.0,TRUE,31/10/2022
+466,99,,29,Very Noddy Lager (Current),Schwarzbier,16.0,TRUE,20/03/2022
+467,62,42.0,28,Tule Duck Red Ale (Current),American Amber / Red Ale,16.0,FALSE,05/08/2022
+468,57.999.999.999.999.900,35.0,27,Original Orange Blossom Ale (Current),Herbed / Spiced Beer,16.0,FALSE,21/04/2022
+469,52.000.000.000.000.000,40.0,26,Black Noddy Lager (Current),Schwarzbier,16.0,FALSE,14/08/2022
+470,53,,1627,Cleveland Beer Week 2013,Munich Helles Lager,16.0,FALSE,30/07/2022
+471,45,,2552,Painted Turtle,American Pale Ale (APA),12.0,TRUE,02/02/2023
+472,0.06,40.0,2125,1836,American Blonde Ale,12.0,TRUE,08/07/2022
+473,0.06,20.0,2124,Summer's Wit,Witbier,12.0,TRUE,11/07/2022
+474,0.09,118.0,2123,More Cowbell,American Double / Imperial IPA,16.0,FALSE,19/08/2022
+475,65,,2608,Wrath of Pele,American Brown Ale,16.0,TRUE,24/01/2023
+476,68,,2607,Black Beer'd,American Black Ale,16.0,FALSE,08/09/2022
+477,78,,2606,Mr. Tea,Fruit / Vegetable Beer,24.0,FALSE,20/11/2022
+478,55,40.0,2478,Pale Alement,American Pale Ale (APA),12.0,FALSE,10/10/2022
+479,99,115.0,2471,Hopkick Dropkick,American Double / Imperial IPA,12.0,FALSE,25/09/2022
+480,0.06,,2470,Kreamed Corn,Cream Ale,12.0,TRUE,02/02/2023
+481,65,,2464,Coconoats,American Pale Wheat Ale,16.0,TRUE,11/04/2022
+482,68,16.0,2160,Joey Wheat,American Pale Wheat Ale,16.0,TRUE,30/03/2022
+483,7.200.000.000.000.000,86.0,2158,3:33 Black IPA,American IPA,16.0,FALSE,12/05/2022
+484,68,,2072,MCA,American IPA,16.0,TRUE,12/02/2023
+485,55,40.0,2054,Pale Alement,American Pale Ale (APA),16.0,TRUE,26/06/2022
+486,0.05,14.0,2196,Couch Select Lager,American Pale Lager,12.0,TRUE,24/05/2022
+487,55.999.999.999.999.900,36.0,668,Mucho Aloha Hawaiian Pale Ale,American Pale Ale (APA),12.0,TRUE,22/11/2022
+488,49,,52,Heinnieweisse Weissebier,Hefeweizen,12.0,FALSE,15/11/2022
+489,68,,51,Snapperhead IPA,American IPA,12.0,TRUE,15/04/2022
+490,49,,50,Moo Thunder Stout,Milk / Sweet Stout,12.0,TRUE,18/03/2022
+491,43,,49,Porkslap Pale Ale,American Pale Ale (APA),12.0,FALSE,09/06/2022
+492,9.300.000.000.000.000,,2657,Blackbeard,American Double / Imperial Stout,12.0,TRUE,22/05/2022
+493,62,,2656,Rye Knot,American Brown Ale,12.0,TRUE,25/07/2022
+494,0.06,,2655,Dead Arm,American Pale Ale (APA),12.0,TRUE,10/05/2022
+495,48,,2654,32°/50° Kölsch,Kölsch,16.0,TRUE,21/05/2022
+496,77,,2653,HopArt,American IPA,16.0,TRUE,19/01/2023
+497,9.699.999.999.999.990,,2652,Boy King,American Double / Imperial IPA,16.0,TRUE,26/09/2022
+498,52.000.000.000.000.000,,2252,Gran Sport,American Porter,16.0,TRUE,15/02/2023
+499,53,25.0,2214,Horny Toad Cerveza,American Blonde Ale,16.0,FALSE,29/10/2022
+500,63,35.0,2213,Native Amber,American Amber / Red Ale,16.0,FALSE,13/10/2022
+501,68,100.0,1442,F5 IPA,American IPA,16.0,TRUE,21/06/2022
+502,63,35.0,170,Native Amber (2013),American Amber / Red Ale,16.0,FALSE,27/09/2022
+503,53,25.0,169,Horny Toad Cerveza (2013),American Blonde Ale,16.0,TRUE,14/10/2022
+504,68,100.0,2315,Hopportunity Knocks IPA,American IPA,12.0,FALSE,20/12/2022
+505,0.06,,1808,Pilot Rock Porter,American Porter,12.0,FALSE,25/05/2022
+506,55.999.999.999.999.900,55.0,1419,Caldera Pale Ale,American Pale Ale (APA),12.0,FALSE,20/12/2022
+507,39,16.0,878,Lawnmower Lager,American Adjunct Lager,12.0,TRUE,15/12/2022
+508,54.000.000.000.000.000,24.0,794,Ashland Amber Ale (2009),American Amber / Red Ale,12.0,TRUE,06/01/2023
+509,61,94.0,793,Caldera IPA (2009),American IPA,12.0,FALSE,07/04/2022
+510,61,94.0,792,Caldera IPA (2007),American IPA,12.0,FALSE,15/08/2022
+511,55.999.999.999.999.900,55.0,791,Caldera Pale Ale (2010),American Pale Ale (APA),12.0,TRUE,05/05/2022
+512,55.999.999.999.999.900,55.0,790,Caldera Pale Ale (2009),American Pale Ale (APA),12.0,FALSE,25/07/2022
+513,55.999.999.999.999.900,55.0,789,Caldera Pale Ale (2005),American Pale Ale (APA),12.0,TRUE,27/03/2022
+514,55.999.999.999.999.900,55.0,788,Caldera Pale Ale (2007),American Pale Ale (APA),12.0,FALSE,13/12/2022
+515,55.999.999.999.999.900,55.0,38,Caldera Pale Ale (2011),American Pale Ale (APA),12.0,FALSE,15/03/2022
+516,54.000.000.000.000.000,24.0,37,Ashland Amber Ale,American Amber / Red Ale,12.0,TRUE,12/04/2022
+517,61,94.0,36,Caldera IPA,American IPA,12.0,FALSE,18/10/2022
+518,0.05,,2257,Remain in Light,American Pilsner,12.0,TRUE,16/04/2022
+519,65,,2256,Flower Child (2014),American IPA,12.0,TRUE,25/08/2022
+520,,,870,THP White (2006),Witbier,12.0,FALSE,08/06/2022
+521,,,869,THP Amber (2006),American Amber / Red Ale,12.0,TRUE,09/11/2022
+522,,,868,THP Light (2006),American Blonde Ale,12.0,TRUE,10/08/2022
+523,,,867,THP Dark (2006),English Dark Mild Ale,12.0,FALSE,02/10/2022
+524,99,43.0,2068,Imperial Pumpkin Stout,Pumpkin Ale,16.0,TRUE,10/03/2022
+525,0.09,130.0,2067,Dead-Eye DIPA,American Double / Imperial IPA,16.0,FALSE,27/04/2022
+526,55,64.0,2066,Fisherman's IPA,American IPA,12.0,TRUE,09/11/2022
+527,54.000.000.000.000.000,35.0,2065,Fisherman's Pils,German Pilsener,12.0,FALSE,29/06/2022
+528,55,30.0,2064,Fisherman's Brew,American Amber / Red Ale,12.0,FALSE,23/03/2022
+529,55,35.0,1928,Cape Cod Red,American Amber / Red Ale,16.0,FALSE,15/10/2022
+530,49,10.0,1927,Beach Blonde,American Blonde Ale,16.0,TRUE,03/06/2022
+531,65,80.0,2227,Dark Voyage Black IPA (2013),American Black Ale,12.0,FALSE,17/01/2023
+532,52.000.000.000.000.000,28.0,2226,Wisconsin Amber,Vienna Lager,12.0,TRUE,02/05/2022
+533,46,18.0,2225,Lake House,Munich Helles Lager,12.0,TRUE,10/08/2022
+534,55.999.999.999.999.900,55.0,1954,Ghost Ship White IPA,American IPA,12.0,TRUE,04/11/2022
+535,46,18.0,1910,Lake House,Munich Helles Lager,16.0,TRUE,28/01/2023
+536,62,70.0,1177,Mutiny IPA,American IPA,12.0,TRUE,02/07/2022
+537,52.000.000.000.000.000,,840,Wisconsin Amber (1998),Vienna Lager,12.0,TRUE,25/08/2022
+538,42,,180,Island Wheat,American Pale Wheat Ale,12.0,TRUE,26/10/2022
+539,52.000.000.000.000.000,,63,Wisconsin Amber (2013),Vienna Lager,12.0,TRUE,09/01/2023
+540,0.05,,62,U.S. Pale Ale,American Pale Ale (APA),12.0,TRUE,26/01/2023
+541,,,61,Supper Club Lager,American Pale Lager,12.0,TRUE,01/08/2022
+542,0.04,,784,Carolina Lighthouse (2007),American Blonde Ale,12.0,FALSE,15/10/2022
+543,0.05,,783,Carolina Blonde (2006),American Blonde Ale,12.0,FALSE,05/09/2022
+544,35,,782,Carolina Blonde Light (2005),American Blonde Ale,12.0,TRUE,11/06/2022
+545,59.000.000.000.000.000,22.0,2255,Santa's Secret,Winter Warmer,16.0,FALSE,23/01/2023
+546,57,,530,Flagship IPA,English India Pale Ale (IPA),12.0,TRUE,26/12/2022
+547,51,,427,Sky Blue Golden Ale,Kölsch,12.0,FALSE,02/02/2023
+548,99,100.0,2094,Epitome,American Black Ale,16.0,FALSE,06/04/2022
+549,39,9.0,1941,Monkey Chased the Weasel,Berliner Weissbier,16.0,TRUE,26/07/2022
+550,78,80.0,1940,077XX,American Double / Imperial IPA,16.0,TRUE,07/09/2022
+551,42,35.0,1439,Boat Beer,American IPA,12.0,TRUE,18/04/2022
+552,69,,1465,Granny Smith Hard Apple Cider,Cider,16.0,TRUE,27/10/2022
+553,69,,1464,Dry Hard Apple Cider,Cider,16.0,TRUE,23/03/2022
+554,55.999.999.999.999.900,,1744,Farmer Ted's Cream Ale,Cream Ale,12.0,TRUE,03/05/2022
+555,52.000.000.000.000.000,,1743,Firewater India Pale Ale,American IPA,12.0,FALSE,22/05/2022
+556,47,,1742,White Zombie Ale,Witbier,12.0,TRUE,12/12/2022
+557,0.07,,1719,King Winterbolt Winter Ale,Winter Warmer,12.0,FALSE,25/02/2023
+558,47,,638,White Zombie Ale,Witbier,12.0,TRUE,18/09/2022
+559,52.000.000.000.000.000,,507,Firewater India Pale Ale,American IPA,12.0,TRUE,04/10/2022
+560,55.999.999.999.999.900,,480,Farmer Ted's Farmhouse Cream Ale,Cream Ale,12.0,FALSE,21/05/2022
+561,48,16.0,1882,Whitecap Wit,Witbier,16.0,TRUE,29/01/2023
+562,78,16.0,1881,Seiche Scottish Ale,Scottish Ale,16.0,FALSE,11/03/2022
+563,57.999.999.999.999.900,,2446,Peanut Butter Jelly Time,American Brown Ale,12.0,TRUE,24/06/2022
+564,54.000.000.000.000.000,,2106,King Coconut,American Porter,12.0,FALSE,04/05/2022
+565,85,90.0,2600,Gone A-Rye,American Double / Imperial IPA,16.0,TRUE,20/07/2022
+566,,,2210,Special Release,,16.0,TRUE,28/11/2022
+567,68,70.0,2052,Dankosaurus,American IPA,16.0,FALSE,23/04/2022
+568,51,35.0,1584,Scruffy's Smoked Alt,Smoked Beer,16.0,TRUE,30/01/2023
+569,51,36.0,1182,Elliott's Phoned Home Pale Ale,American Pale Ale (APA),16.0,TRUE,14/07/2022
+570,0.05,18.0,1050,The Lawn Ranger,Cream Ale,16.0,TRUE,06/04/2022
+571,0.05,,1219,All American Blonde Ale,American Blonde Ale,12.0,TRUE,12/03/2022
+572,0.05,,1218,All American Red Ale,American Amber / Red Ale,12.0,FALSE,27/10/2022
+573,0.05,40.0,2377,Main St. Virginia Ale,Altbier,12.0,FALSE,07/08/2022
+574,45,24.0,1839,Chin Music Amber Lager,American Amber / Red Lager,12.0,TRUE,03/06/2022
+575,0.05,40.0,1248,Main St. Virginia Ale,Altbier,12.0,FALSE,19/06/2022
+576,52.000.000.000.000.000,42.0,1247,Ray Ray’s Pale Ale,American Pale Ale (APA),12.0,TRUE,05/08/2022
+577,51,15.0,1649,Chai Ale,Herbed / Spiced Beer,16.0,TRUE,01/09/2022
+578,7.200.000.000.000.000,85.0,1648,Lucky Day IPA,American IPA,16.0,FALSE,16/07/2022
+579,95,99.0,1647,Terrace Hill Double IPA,American Double / Imperial IPA,16.0,FALSE,03/06/2022
+580,75,77.0,1646,Catch 23,American Black Ale,16.0,TRUE,06/10/2022
+581,0.07,,2057,Stickin' In My Rye,Rye Beer,24.0,FALSE,15/12/2022
+582,0.06,45.0,2056,Black Me Stout,American Stout,12.0,TRUE,15/06/2022
+583,0.05,22.0,2055,Killer Kolsch,Kölsch,12.0,TRUE,20/09/2022
+584,0.07,65.0,1933,Missile IPA,American IPA,12.0,TRUE,19/04/2022
+585,45,,2019,Enlighten,Kölsch,16.0,TRUE,19/11/2022
+586,65,8.0,2018,Ale Cider,Fruit / Vegetable Beer,16.0,FALSE,10/09/2022
+587,55,30.0,2017,Pail Ale,American Pale Ale (APA),16.0,FALSE,19/02/2023
+588,45,,2016,Englishman,English Brown Ale,16.0,FALSE,14/02/2023
+589,0.08,69.0,2080,8 Barrel,American Strong Ale,16.0,FALSE,03/04/2022
+590,55,40.0,2079,Oktoberfest,Märzen / Oktoberfest,16.0,FALSE,04/05/2022
+591,57,58.0,2380,IPA #11,American IPA,16.0,FALSE,14/04/2022
+592,57,10.0,2379,Blood Orange Honey,Fruit / Vegetable Beer,16.0,TRUE,07/08/2022
+593,52.000.000.000.000.000,,2354,Lighthouse Amber,Altbier,16.0,FALSE,15/08/2022
+594,8.900.000.000.000.000,126.0,2440,Bay of Bengal Double IPA (2014),American Double / Imperial IPA,12.0,FALSE,24/01/2023
+595,49,29.0,567,Churchkey Pilsner Style Beer,American Pilsner,12.0,TRUE,26/06/2022
+596,0.05,,1342,First Press,Cider,12.0,TRUE,29/07/2022
+597,0.05,,1341,Magic Apple,Cider,12.0,TRUE,28/12/2022
+598,55,25.0,2349,Cubano Espresso,Bock,12.0,TRUE,06/12/2022
+599,62,65.0,2014,Operation Homefront,American IPA,12.0,FALSE,19/07/2022
+600,8.199.999.999.999.990,65.0,2013,Wandering Pelican,American Black Ale,12.0,FALSE,06/03/2023
+601,55,,2012,Sugar Plum,American Brown Ale,12.0,FALSE,09/06/2022
+602,55,,2011,Oktoberfest,Märzen / Oktoberfest,12.0,TRUE,14/12/2022
+603,0.06,,2010,Puppy's Breath Porter,American Porter,12.0,FALSE,22/04/2022
+604,45,,2009,Happening Now,American IPA,12.0,FALSE,13/01/2023
+605,0.07,60.0,1726,Hopped on the High Seas (Hop #529),American IPA,12.0,TRUE,19/07/2022
+606,0.07,60.0,1725,Hopped on the High Seas (Calypso),American IPA,12.0,FALSE,21/02/2023
+607,63,,1695,Wiregrass Post-Prohibition Ale,American Pale Ale (APA),12.0,TRUE,28/07/2022
+608,0.07,60.0,1694,Dry-Hopped On The High Seas Caribbean-Style IPA,American IPA,12.0,TRUE,28/03/2022
+609,0.07,60.0,1693,Hopped on the High Seas (Citra),American IPA,12.0,FALSE,10/09/2022
+610,0.07,60.0,1692,Hopped on the High Seas (Ahtanum),American IPA,12.0,TRUE,19/02/2023
+611,55,,1369,Gwar Beer,American Pale Ale (APA),12.0,FALSE,28/08/2022
+612,52.000.000.000.000.000,,1243,Tropical Heatwave,American Pale Wheat Ale,16.0,TRUE,13/08/2022
+613,75,70.0,1142,Humidor Series India Pale Ale,American IPA,12.0,FALSE,18/09/2022
+614,75,70.0,1141,Jai Alai IPA Aged on White Oak,American IPA,12.0,TRUE,23/01/2023
+615,0.08,65.0,1140,José Martí American Porter,American Porter,12.0,FALSE,02/07/2022
+616,0.05,,1139,Invasion Pale Ale,American Pale Ale (APA),12.0,TRUE,24/05/2022
+617,55,25.0,1138,Maduro Brown Ale,English Brown Ale,12.0,TRUE,20/05/2022
+618,55,25.0,571,Maduro Brown Ale,American Brown Ale,12.0,TRUE,21/04/2022
+619,0.05,,570,Hotter Than Helles Lager,Munich Helles Lager,12.0,FALSE,12/02/2023
+620,7.200.000.000.000.000,75.0,569,Tocobaga Red Ale,American Amber / Red Ale,12.0,TRUE,04/10/2022
+621,75,70.0,546,Jai Alai IPA,American IPA,12.0,FALSE,09/08/2022
+622,0.05,18.0,545,Florida Cracker Belgian Wit,Witbier,12.0,TRUE,21/05/2022
+623,48,,2338,Shark Tracker Light lager,Light Lager,12.0,TRUE,07/05/2022
+624,0.06,,1365,Pumple Drumkin,Pumpkin Ale,12.0,TRUE,02/09/2022
+625,45,,1094,Grey Lady,Witbier,12.0,TRUE,29/07/2022
+626,62,,657,Summer of Lager,Munich Helles Lager,12.0,FALSE,27/02/2023
+627,65,,656,Indie Pale Ale,American IPA,12.0,TRUE,22/11/2022
+628,38,,359,Sankaty Light Lager,Light Lager,12.0,TRUE,06/08/2022
+629,55.999.999.999.999.900,,56,Whale's Tale Pale Ale,English Pale Ale,12.0,FALSE,25/12/2022
+630,67,60.0,1772,Jacaranada Rye IPA,American IPA,16.0,FALSE,31/07/2022
+631,0.06,75.0,1393,Cascadian Dark Ale,American Black Ale,12.0,FALSE,28/03/2022
+632,44.000.000.000.000.000,13.0,893,Wheat the People,American Pale Wheat Ale,16.0,TRUE,01/05/2022
+633,47,17.0,1407,Tybee Island Blonde,American Blonde Ale,12.0,TRUE,08/09/2022
+634,62,55.0,1406,Savannah Brown Ale,American Brown Ale,12.0,FALSE,21/06/2022
+635,46,11.0,2438,Rhode Island Blueberry,Kölsch,12.0,FALSE,16/06/2022
+636,65,75.0,2437,Newport Storm IPA,American IPA,12.0,FALSE,30/08/2022
+637,52.000.000.000.000.000,24.0,751,Hurricane Amber Ale (2004),American Amber / Red Ale,12.0,FALSE,27/07/2022
+638,52.000.000.000.000.000,24.0,120,Hurricane Amber Ale,American Amber / Red Ale,12.0,FALSE,08/10/2022
+639,57.999.999.999.999.900,,2061,Big Blue Van,Fruit / Vegetable Beer,16.0,FALSE,17/02/2023
+640,68,75.0,970,Des Moines IPA,American IPA,16.0,TRUE,25/01/2023
+641,48,22.0,969,Capital Gold Golden Lager,German Pilsener,16.0,FALSE,25/06/2022
+642,55.999.999.999.999.900,21.0,968,Farmer John's Multi-Grain Ale,American Blonde Ale,16.0,TRUE,23/07/2022
+643,0.05,,2351,Behemoth,American Pilsner,12.0,TRUE,22/12/2022
+644,52.000.000.000.000.000,,1650,Arkansas Red,American Amber / Red Ale,12.0,TRUE,03/01/2023
+645,57,,1337,Core Oatmeal Stout,Oatmeal Stout,12.0,TRUE,22/11/2022
+646,61,,1336,Core ESB,Extra Special / Strong Bitter (ESB),12.0,FALSE,17/02/2023
+647,38,,737,Chester's Beer (2005),American Pale Lager,12.0,TRUE,29/06/2022
+648,0.05,,129,Heiner Brau Kölsch,Kölsch,12.0,FALSE,29/12/2022
+649,48,,716,Trigger Blonde Ale,American Blonde Ale,16.0,TRUE,20/03/2022
+650,75,29.0,659,Crabtree Oatmeal Stout,Oatmeal Stout,16.0,FALSE,26/08/2022
+651,77,71.0,556,Eclipse Black IPA,American Black Ale,16.0,TRUE,10/06/2022
+652,0.06,46.0,2538,Neomexicanus Native,American Pale Ale (APA),12.0,TRUE,10/06/2022
+653,75,25.0,2355,Old Soul,Belgian Strong Pale Ale,12.0,TRUE,14/06/2022
+654,59.000.000.000.000.000,,1689,Snowcat Coffee Stout,American Stout,12.0,FALSE,20/02/2023
+655,,,1163,WinterWonderGrass Festival Ale,American Amber / Red Ale,12.0,TRUE,16/01/2023
+656,,,940,Boohai Red Ale,American Amber / Red Ale,12.0,TRUE,13/04/2022
+657,52.000.000.000.000.000,15.0,685,Lava Lake Wit,Witbier,12.0,TRUE,06/02/2023
+658,0.06,,613,Mountain Livin' Pale Ale,American Pale Ale (APA),12.0,TRUE,11/12/2022
+659,52.000.000.000.000.000,25.0,356,Crazy Mountain Amber Ale,American Amber / Red Ale,12.0,FALSE,17/01/2023
+660,65,65.0,2029,Tropicalia,American IPA,12.0,FALSE,15/09/2022
+661,45,,2028,Athena,Berliner Weissbier,12.0,FALSE,04/04/2022
+662,49,25.0,2293,Aviator Raspberry Blonde,American Blonde Ale,12.0,TRUE,05/06/2022
+663,55,,1105,3 Picket Porter,American Porter,12.0,TRUE,27/03/2022
+664,55.999.999.999.999.900,,1104,Rusty Nail Pale Ale,American Pale Ale (APA),12.0,FALSE,22/02/2023
+665,65,,2145,Red Water Irish Style Red,American Amber / Red Ale,12.0,TRUE,31/10/2022
+666,66,,1804,Mjöllnir,Herbed / Spiced Beer,12.0,FALSE,07/11/2022
+667,55,,1602,Bear Butte Nut Brown Ale,American Brown Ale,12.0,TRUE,13/08/2022
+668,45,,1301,Easy Livin' Summer Ale,American Blonde Ale,12.0,TRUE,03/08/2022
+669,55,,542,Canyon Cream Ale,Cream Ale,12.0,FALSE,27/02/2023
+670,69,,272,Pile O'Dirt Porter,American Porter,12.0,FALSE,29/12/2022
+671,0.06,,271,11th Hour IPA,American IPA,12.0,FALSE,26/07/2022
+672,0.06,31.0,1057,South Ridge Amber Ale,American Amber / Red Ale,16.0,TRUE,25/05/2022
+673,52.000.000.000.000.000,23.0,681,Summertime Ale,Kölsch,16.0,FALSE,07/05/2022
+674,49,,1789,Lost River Blonde Ale,American Blonde Ale,16.0,TRUE,13/02/2023
+675,54.000.000.000.000.000,,1788,Monon Wheat,Witbier,16.0,FALSE,07/10/2022
+676,0.08,,1787,Floyd's Folly,Scottish Ale,16.0,FALSE,07/11/2022
+677,63,,1786,Half Court IPA,American IPA,16.0,FALSE,16/02/2023
+678,45,,1763,Geary's Pale Ale,English Pale Ale,12.0,TRUE,08/10/2022
+679,0.06,,1311,Geary's Summer Ale,Kölsch,12.0,FALSE,23/09/2022
+680,0.08,,2078,Stone of Arbroath,Scotch Ale / Wee Heavy,12.0,TRUE,04/01/2023
+681,0.05,15.0,1809,The Tradition,American Blonde Ale,12.0,FALSE,01/01/2023
+682,53,11.0,1263,El Hefe Speaks,Hefeweizen,12.0,FALSE,23/07/2022
+683,55,,1092,Penn Quarter Porter,American Porter,12.0,TRUE,28/10/2022
+684,92,115.0,851,On the Wings of Armageddon,American Double / Imperial IPA,12.0,TRUE,14/08/2022
+685,65,80.0,186,The Corruption,American IPA,12.0,TRUE,26/01/2023
+686,0.07,,185,The Citizen,Belgian Pale Ale,12.0,FALSE,10/07/2022
+687,0.06,,184,The Public,American Pale Ale (APA),12.0,FALSE,14/08/2022
+688,65,,1224,Dank IPA,American IPA,16.0,FALSE,14/08/2022
+689,65,,964,Dank IPA (2012),American IPA,16.0,TRUE,13/01/2023
+690,7.200.000.000.000.000,,1623,Lift Off IPA,American IPA,16.0,TRUE,18/01/2023
+691,55,,110,BrewFarm Select Golden Lager,American Pale Lager,12.0,TRUE,26/11/2022
+692,0.05,,1735,Sprocket Blonde Ale (2006),American Blonde Ale,12.0,FALSE,24/04/2022
+693,0.05,,1734,Sprocket Pale Ale (2006),American Pale Ale (APA),12.0,TRUE,15/06/2022
+694,63,37.0,1746,Dead Armadillo Amber Ale,American Amber / Red Ale,12.0,FALSE,30/01/2023
+695,0.06,,2371,Neato Bandito,Euro Pale Lager,12.0,TRUE,28/12/2022
+696,75,33.0,2251,Oak Cliff Coffee Ale,American Brown Ale,12.0,FALSE,11/08/2022
+697,85,100.0,2166,Dream Crusher Double IPA,American Double / Imperial IPA,12.0,FALSE,16/10/2022
+698,0.06,,1827,Deep Ellum Pale Ale,American Pale Ale (APA),12.0,FALSE,16/05/2022
+699,0.07,,1203,Double Brown Stout,Baltic Porter,12.0,TRUE,12/03/2022
+700,48,25.0,1202,Farmhouse Wit,Saison / Farmhouse Ale,16.0,FALSE,03/09/2022
+701,46,,1161,Rye Pils Session Lager,German Pilsener,12.0,FALSE,24/05/2022
+702,52.000.000.000.000.000,23.0,946,Dallas Blonde,American Blonde Ale,12.0,TRUE,05/03/2023
+703,0.07,70.0,943,Deep Ellum IPA,American IPA,12.0,TRUE,30/08/2022
+704,45,44.0,1886,Thrasher Session India Pale Ale,American IPA,12.0,FALSE,25/06/2022
+705,0.05,16.0,1885,Gutch English Style Mild Ale,English Pale Mild Ale,12.0,FALSE,13/02/2023
+706,59.000.000.000.000.000,55.0,1213,Chuli Stout,Irish Dry Stout,12.0,FALSE,19/07/2022
+707,55.999.999.999.999.900,46.0,1159,Mother Ale,American Blonde Ale,12.0,TRUE,20/09/2022
+708,65,71.0,947,Twister Creek India Pale Ale,American IPA,12.0,FALSE,12/09/2022
+709,57.999.999.999.999.900,46.0,929,Single Engine Red,Irish Red Ale,12.0,TRUE,05/06/2022
+710,0.07,,1944,Incredible Pedal IPA,American IPA,12.0,FALSE,26/11/2022
+711,0.05,,1943,Graham Cracker Porter,American Porter,12.0,FALSE,04/08/2022
+712,0.05,40.0,1210,Mirror Pond Pale Ale,American Pale Ale (APA),12.0,FALSE,13/06/2022
+713,52.000.000.000.000.000,16.0,2550,Weissenheimer,Hefeweizen,12.0,FALSE,20/05/2022
+714,49,22.0,2505,Abbey's Single (2015- ),Abbey Single Ale,12.0,TRUE,05/04/2022
+715,63,76.0,2025,Vertex IPA,American IPA,12.0,FALSE,31/01/2023
+716,0.05,12.0,2021,Here Gose Nothin',Gose,12.0,TRUE,23/09/2022
+717,0.05,,2015,Strawberry Blonde,Fruit / Vegetable Beer,12.0,TRUE,04/03/2023
+718,96,85.0,1888,Hoperation Overload,American Double / Imperial IPA,12.0,TRUE,09/12/2022
+719,49,22.0,1887,Abbey's Single Ale (Current),Abbey Single Ale,12.0,TRUE,18/11/2022
+720,44.000.000.000.000.000,45.0,2051,Bravo Four Point,American Pale Ale (APA),12.0,TRUE,18/07/2022
+721,52.000.000.000.000.000,26.0,1201,Striped Bass Pale Ale,American Pale Ale (APA),12.0,TRUE,24/10/2022
+722,54.000.000.000.000.000,27.0,924,Deadicated Amber,American Amber / Red Ale,16.0,TRUE,07/08/2022
+723,,,731,Kaleidoscope Collaboration 2012,American Black Ale,16.0,FALSE,17/05/2022
+724,71,85.0,730,California Sunshine Rye IPA,American IPA,16.0,FALSE,09/04/2022
+725,7.400.000.000.000.000,12.0,647,Full Boar Scotch Ale,Scotch Ale / Wee Heavy,16.0,TRUE,12/01/2023
+726,45,,1773,12 Man Pale Ale,American Pale Ale (APA),12.0,FALSE,25/09/2022
+727,65,72.0,1795,Filthy Hoppin' IPA,American IPA,16.0,FALSE,18/12/2022
+728,,,944,Dock Street Amber Beer (1992),American Amber / Red Ale,12.0,FALSE,13/04/2022
+729,,,524,Dolores River Hefeweizen,Hefeweizen,16.0,FALSE,16/11/2022
+730,,,450,Dolores River ESB,Extra Special / Strong Bitter (ESB),16.0,TRUE,30/12/2022
+731,,,449,Snaggletooth Double Pale Ale,American Double / Imperial IPA,16.0,FALSE,29/01/2023
+732,,,448,Dolores River Pale Ale,American Pale Ale (APA),16.0,TRUE,01/06/2022
+733,,,447,Dolores River Dry Stout,Irish Dry Stout,16.0,TRUE,01/11/2022
+734,,,446,Dolores River Mild,English Dark Mild Ale,16.0,FALSE,16/10/2022
+735,49,,1246,Cranberry Blend,Cider,12.0,TRUE,07/09/2022
+736,51,,977,Orignal Blend,Cider,12.0,FALSE,20/07/2022
+737,66,100.0,881,Hop Abomination,American IPA,12.0,FALSE,05/07/2022
+738,51,17.0,880,Apricot Blonde,Fruit / Vegetable Beer,12.0,FALSE,11/08/2022
+739,43,12.0,872,Dry Dock Hefeweizen,Hefeweizen,12.0,FALSE,19/01/2023
+740,57.999.999.999.999.900,49.0,871,Dry Dock Amber Ale,American Amber / Red Ale,12.0,TRUE,17/10/2022
+741,61,64.0,1685,Category 3 IPA,American IPA,12.0,TRUE,14/04/2022
+742,45,18.0,457,Dundee Summer Wheat Beer,American Pale Wheat Ale,12.0,TRUE,20/07/2022
+743,0.05,,1590,Pumpkin Patch Ale,Pumpkin Ale,16.0,TRUE,22/12/2022
+744,78,74.0,1382,Crank Yanker IPA,American IPA,16.0,TRUE,26/03/2022
+745,0.06,,1110,River Runners Pale Ale,American Pale Ale (APA),16.0,TRUE,19/08/2022
+746,0.05,,1014,Pumpkin Patch Ale (2012),Pumpkin Ale,16.0,FALSE,17/06/2022
+747,55,,911,Mountain Fairy Raspberry Wheat,Fruit / Vegetable Beer,16.0,TRUE,01/02/2023
+748,45,,680,Boater Beer,German Pilsener,16.0,FALSE,02/03/2023
+749,78,74.0,395,Crank Yanker IPA (2011),American IPA,16.0,TRUE,11/06/2022
+750,57,,1642,Bleeding Buckeye Red Ale,Extra Special / Strong Bitter (ESB),16.0,FALSE,14/11/2022
+751,49,25.0,673,Dottie Seattle Lager,American Amber / Red Lager,16.0,FALSE,12/04/2022
+752,0.07,,1107,Nut Sack Imperial Brown Ale,American Brown Ale,12.0,FALSE,22/02/2023
+753,0.05,,1039,Underachiever,American Adjunct Lager,16.0,FALSE,08/10/2022
+754,52.000.000.000.000.000,,2477,Lil' Brainless Raspberries,Fruit / Vegetable Beer,12.0,TRUE,20/09/2022
+755,52.000.000.000.000.000,,2008,Element 29,American Pale Ale (APA),12.0,TRUE,10/03/2022
+756,0.05,,2004,Hop Syndrome,American Pale Lager,12.0,FALSE,11/11/2022
+757,62,,2003,Escape to Colorado,American IPA,12.0,FALSE,30/05/2022
+758,43,60.0,2292,Little Sister India Style Session Ale,American IPA,12.0,FALSE,17/07/2022
+759,62,80.0,1504,Country Boy IPA,American IPA,12.0,FALSE,11/04/2022
+760,49,23.0,2604,Blonde Czich,American Blonde Ale,16.0,FALSE,09/04/2022
+761,0.07,61.0,2432,White Reaper,Belgian IPA,16.0,TRUE,08/01/2023
+762,51,,2431,Bobblehead,American Pale Wheat Ale,16.0,FALSE,06/06/2022
+763,52.000.000.000.000.000,,2430,Lucky Dog,American Pale Ale (APA),16.0,FALSE,05/07/2022
+764,48,,2429,Voodoo,American Porter,16.0,FALSE,18/11/2022
+765,54.000.000.000.000.000,48.0,1967,General George Patton Pilsner,Czech Pilsener,16.0,TRUE,15/03/2022
+766,0.04,,2283,Nomader Weiss,Berliner Weissbier,12.0,FALSE,04/07/2022
+767,85,,2248,Molotov Lite,American Double / Imperial IPA,16.0,FALSE,19/05/2022
+768,55,,1287,Hipster Ale (Two Roads Brewing),American Pale Ale (APA),12.0,TRUE,08/05/2022
+769,27.000.000.000.000.000,,1286,Bikini Beer,American IPA,12.0,TRUE,25/06/2022
+770,55,,640,Hipster Ale (Westbrook Brewing),American Pale Ale (APA),12.0,TRUE,24/11/2022
+771,0.05,32.0,1722,Iron Horse Pale Ale,American Pale Ale (APA),12.0,FALSE,05/10/2022
+772,45,19.0,1435,Stone's Throw IPA,Scottish Ale,12.0,TRUE,18/04/2022
+773,67,70.0,1434,Wood Chipper India Pale Ale,American IPA,12.0,FALSE,22/02/2023
+774,63,55.0,2089,Trail Head,American Pale Ale (APA),12.0,TRUE,29/01/2023
+775,0.07,80.0,2088,Hop Stalker Fresh Hop IPA,American IPA,16.0,TRUE,24/07/2022
+776,0.07,58.0,1455,Sudice American Stout,American Stout,16.0,TRUE,27/11/2022
+777,0.05,20.0,1454,Parcae Belgian Style Pale Ale,Belgian Pale Ale,16.0,FALSE,16/06/2022
+778,0.05,20.0,1453,Norns Roggenbier,Roggenbier,16.0,FALSE,01/12/2022
+779,0.05,20.0,1452,Laimas Kölsch Style Ale,Kölsch,16.0,FALSE,09/11/2022
+780,0.07,70.0,1451,Moirai India Pale Ale,American IPA,16.0,TRUE,04/09/2022
+781,75,53.0,2191,Loki Red Ale,American Amber / Red Ale,16.0,FALSE,08/06/2022
+782,46,,1731,Peaches & Cream,Fruit / Vegetable Beer,16.0,TRUE,16/08/2022
+783,51,,1022,Quaff India Style Session Ale,American IPA,16.0,TRUE,09/12/2022
+784,75,53.0,895,Loki Red Ale (2013),American Amber / Red Ale,16.0,TRUE,10/02/2023
+785,69,,682,Mjolnir Imperial IPA,American Double / Imperial IPA,16.0,FALSE,10/04/2022
+786,0.05,,112,Fearless Scottish Ale,Scottish Ale,16.0,FALSE,15/05/2022
+787,81,,2289,Mastermind,American Double / Imperial IPA,12.0,FALSE,07/01/2023
+788,8.199.999.999.999.990,,2027,Hyzer Flip,American Double / Imperial IPA,16.0,TRUE,08/07/2022
+789,8.199.999.999.999.990,80.0,1929,Second Fiddle,American Double / Imperial IPA,16.0,FALSE,28/08/2022
+790,55,30.0,1858,Hodad Porter,American Porter,16.0,TRUE,25/03/2022
+791,45,,2591,Weiss Weiss Baby,Kristalweizen,12.0,TRUE,05/08/2022
+792,55,45.0,2590,Czech Yo Self,Czech Pilsener,12.0,TRUE,23/10/2022
+793,48,20.0,1968,FMB 101,Kölsch,12.0,FALSE,15/06/2022
+794,0.09,,1981,Hardcore Chimera,American Double / Imperial IPA,16.0,TRUE,25/10/2022
+795,0.08,80.0,1664,Sobek & Set,American Black Ale,16.0,FALSE,07/09/2022
+796,86,,1663,Nuclear Winter,Belgian Strong Dark Ale,16.0,FALSE,23/06/2022
+797,0.05,22.0,1662,Wet Hot American Wheat Ale,American Pale Wheat Ale,16.0,FALSE,15/02/2023
+798,53,,941,Secret Stache Stout,American Stout,16.0,FALSE,28/02/2023
+799,0.08,72.0,935,Fascist Pig Ale,American Amber / Red Ale,16.0,TRUE,20/07/2022
+800,55,,809,Cut Throat Pale Ale,American Pale Ale (APA),16.0,TRUE,28/10/2022
+801,75,,481,Threadless IPA,American IPA,16.0,FALSE,23/02/2023
+802,55,,351,Cut Throat Pale Ale (2011),American Pale Ale (APA),16.0,TRUE,20/04/2022
+803,47,,350,Golden Wing Blonde Ale,American Blonde Ale,16.0,FALSE,01/07/2022
+804,45,47.0,2569,Easy Jack,American IPA,12.0,TRUE,26/11/2022
+805,75,75.0,2463,Union Jack,American IPA,12.0,TRUE,23/08/2022
+806,53,,2462,Pivo Pils,German Pilsener,12.0,TRUE,12/12/2022
+807,47,,1957,805 Blonde Ale,American Blonde Ale,12.0,FALSE,23/05/2022
+808,47,20.0,1733,805,American Blonde Ale,12.0,FALSE,30/07/2022
+809,65,,2624,Deflator,Doppelbock,16.0,TRUE,13/08/2022
+810,0.05,27.0,2284,Hinchtown Hammer Down,American Blonde Ale,16.0,FALSE,26/04/2022
+811,0.06,104.0,1610,Half Cycle IPA,American IPA,16.0,FALSE,24/01/2023
+812,,,520,Inclined Plane Ale,American IPA,12.0,FALSE,29/04/2022
+813,55,,2554,Moped Traveler,American Pale Ale (APA),16.0,TRUE,25/03/2022
+814,71,60.0,608,Snake Dog IPA,American IPA,12.0,TRUE,27/09/2022
+815,47,28.0,607,Underdog Atlantic Lager,American Pale Lager,12.0,FALSE,22/02/2023
+816,0.04,,2567,Flying Mouse 8,American Porter,12.0,TRUE,06/09/2022
+817,0.07,70.0,2566,Flying Mouse 4,American IPA,12.0,FALSE,30/01/2023
+818,78,,1899,La Ferme Urbaine Farmhouse Ale,Saison / Farmhouse Ale,12.0,FALSE,08/06/2022
+819,0.06,,983,Backyahd IPA,American IPA,12.0,FALSE,09/10/2022
+820,65,,982,Raincloud Robust Porter,American Porter,12.0,FALSE,12/04/2022
+821,45,,981,Barstool American Golden Ale,American Blonde Ale,12.0,FALSE,24/12/2022
+822,0.05,18.0,2111,What the Butler Saw,Witbier,12.0,TRUE,20/11/2022
+823,69,65.0,2110,1916 Shore Shiver,American IPA,12.0,TRUE,14/10/2022
+824,52.000.000.000.000.000,,2172,Quick WIT,Belgian Pale Ale,12.0,FALSE,20/10/2022
+825,62,,2171,The Optimist,American IPA,12.0,TRUE,28/03/2022
+826,45,,1911,Suicide Squeeze IPA,American IPA,16.0,FALSE,05/03/2023
+827,65,,1803,Java the Hop,American IPA,16.0,FALSE,15/10/2022
+828,62,,1566,Next Adventure Black IPA,American Black Ale,16.0,TRUE,13/01/2023
+829,67,,1515,3-Way IPA (2013),American IPA,16.0,TRUE,11/06/2022
+830,57.999.999.999.999.900,,1214,Tender Loving Empire NWPA,American Pale Ale (APA),16.0,TRUE,15/08/2022
+831,52.000.000.000.000.000,,674,Quick Wit Belgianesque Ale,Witbier,16.0,TRUE,12/12/2022
+832,55,,562,Sunrise Oatmeal Pale Ale,American Pale Ale (APA),16.0,TRUE,08/12/2022
+833,8.800.000.000.000.000,,552,Cavatica Stout,American Double / Imperial Stout,16.0,FALSE,21/09/2022
+834,51,,319,1811 Lager,American Amber / Red Lager,16.0,TRUE,22/12/2022
+835,7.400.000.000.000.000,97.0,318,Vortex IPA,American IPA,16.0,TRUE,26/09/2022
+836,,,2322,Fort Pitt Ale,American Amber / Red Ale,12.0,FALSE,10/03/2022
+837,47,19.0,2661,Park,American Pale Wheat Ale,12.0,TRUE,30/04/2022
+838,55.999.999.999.999.900,16.0,2660,Westfalia,American Amber / Red Ale,12.0,TRUE,17/11/2022
+839,46,17.0,2659,KSA,Kölsch,12.0,FALSE,08/10/2022
+840,63,42.0,2658,Villager,American IPA,12.0,FALSE,31/12/2022
+841,85,50.0,2625,Dirty Bastard,Scotch Ale / Wee Heavy,12.0,FALSE,10/04/2022
+842,7.200.000.000.000.000,65.0,1565,Centennial IPA,American IPA,12.0,FALSE,12/06/2022
+843,47,42.0,1223,All Day IPA,American IPA,12.0,FALSE,06/05/2022
+844,76,73.0,1874,El Chingon IPA,American IPA,12.0,FALSE,08/02/2023
+845,57,40.0,1873,Block Party Robust Porter,American Porter,12.0,FALSE,27/04/2022
+846,52.000.000.000.000.000,20.0,1872,Local Buzz,American Blonde Ale,12.0,FALSE,01/05/2022
+847,55,,2613,Feel Like Maplin' Love,Oatmeal Stout,16.0,TRUE,09/06/2022
+848,0.05,,2612,Father's Beer,Belgian Pale Ale,16.0,FALSE,30/11/2022
+849,0.06,,2611,The 26th,American IPA,16.0,FALSE,14/12/2022
+850,64,90.0,2610,The Gadget,American IPA,16.0,TRUE,24/06/2022
+851,0.04,,1657,Leprechaun Lager,American Pale Lager,12.0,TRUE,18/03/2022
+852,52.000.000.000.000.000,17.0,2309,Sunbru Kölsch,Kölsch,12.0,TRUE,31/01/2023
+853,0.06,21.0,1635,Kilt Lifter Scottish-Style Ale,,12.0,TRUE,12/12/2022
+854,51,,1616,Pumpkin Porter,American Porter,12.0,FALSE,26/03/2022
+855,42,9.0,1585,Four Peaks Peach Ale,Fruit / Vegetable Beer,12.0,FALSE,26/08/2022
+856,67,47.0,358,Hop Knot IPA,American IPA,12.0,TRUE,20/07/2022
+857,0.06,21.0,179,Kilt Lifter Scottish-Style Ale (2009),Scottish Ale,12.0,TRUE,22/04/2022
+858,52.000.000.000.000.000,,178,Sunbru Kölsch,Kölsch,12.0,TRUE,07/01/2023
+859,0.06,,2428,Four String Vanilla Porter,American Porter,12.0,TRUE,02/07/2022
+860,0.05,28.0,2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,TRUE,16/12/2022
+861,57,36.0,2425,Brass Knuckle Pale Ale,American Pale Ale (APA),12.0,FALSE,21/09/2022
+862,0.07,70.0,2424,Big Star White IPA,American White IPA,12.0,TRUE,01/07/2022
+863,55.999.999.999.999.900,,1998,Old Detroit,American Amber / Red Ale,12.0,FALSE,27/06/2022
+864,69,69.0,1556,Batch 69 IPA,American IPA,12.0,FALSE,22/10/2022
+865,55,18.0,1208,Twisted Helles Summer Lager,Munich Helles Lager,12.0,FALSE,11/01/2023
+866,53,27.0,2527,OktoberFiesta,,12.0,TRUE,23/08/2022
+867,65,33.0,2526,Texicali,American Brown Ale,12.0,FALSE,22/03/2022
+868,0.06,,2525,Pinata Protest,Witbier,12.0,FALSE,29/03/2022
+869,42,20.0,2524,Bat Outta Helles,Munich Helles Lager,12.0,FALSE,28/10/2022
+870,68,,2523,Original,American Amber / Red Ale,12.0,FALSE,05/01/2023
+871,42,10.0,2522,Rye Wit,Witbier,12.0,TRUE,31/03/2022
+872,59.000.000.000.000.000,70.0,2521,Soul Doubt,American IPA,12.0,FALSE,21/01/2023
+873,44.000.000.000.000.000,5.0,2520,Yo Soy Un Berliner,Berliner Weissbier,12.0,TRUE,14/04/2022
+874,0.04,,1174,77 Fremont Select Spring Session IPA,American IPA,12.0,FALSE,05/06/2022
+875,45,,1116,Fremont Organic Pale Ale,American Pale Ale (APA),12.0,TRUE,20/01/2023
+876,0.08,,994,Abominable Ale,English Strong Ale,12.0,FALSE,01/01/2023
+877,65,35.0,901,Harvest Ale,Saison / Farmhouse Ale,12.0,FALSE,27/05/2022
+878,65,45.0,875,Fremont Summer Ale,American Pale Ale (APA),12.0,TRUE,09/10/2022
+879,55.999.999.999.999.900,30.0,858,Universale Pale Ale,American Pale Ale (APA),12.0,FALSE,29/09/2022
+880,65,80.0,857,Interurban IPA,American IPA,12.0,TRUE,14/12/2022
+881,53,32.0,1300,Gateway Kolsch Style Ale,Kölsch,12.0,FALSE,04/11/2022
+882,0.07,24.0,1260,Wee-Heavy-Er Scotch Ale,Scotch Ale / Wee Heavy,12.0,FALSE,29/04/2022
+883,52.000.000.000.000.000,42.0,1259,13 Rebels ESB,Extra Special / Strong Bitter (ESB),12.0,TRUE,07/09/2022
+884,0.07,73.0,2254,Salamander Slam,American IPA,16.0,FALSE,22/10/2022
+885,0.05,,1658,Cack-A-Lacky,American Pale Ale (APA),12.0,TRUE,30/10/2022
+886,7.200.000.000.000.000,50.0,2077,No Wake IPA,American IPA,12.0,TRUE,24/08/2022
+887,49,15.0,2076,Boathouse Blonde,American Blonde Ale,12.0,TRUE,07/06/2022
+888,0.05,26.0,2075,Cedar Point,American Amber / Red Ale,12.0,TRUE,12/08/2022
+889,67,70.0,2426,Clean Shave IPA,American IPA,12.0,FALSE,05/08/2022
+890,7.200.000.000.000.000,75.0,2045,Might As Well IPL,American Pale Lager,16.0,TRUE,28/07/2022
+891,57.999.999.999.999.900,35.0,1960,Saison Pamplemousse,Saison / Farmhouse Ale,12.0,FALSE,23/02/2023
+892,7.400.000.000.000.000,74.0,1777,2020 IPA,American IPA,16.0,TRUE,26/03/2022
+893,0.08,70.0,1698,Wolf Among Weeds IPA,American IPA,16.0,FALSE,24/04/2022
+894,94,92.0,1641,Better Weather IPA,American IPA,16.0,FALSE,09/03/2022
+895,59.000.000.000.000.000,60.0,1490,Point the Way IPA,American IPA,16.0,TRUE,11/06/2022
+896,46,15.0,1489,Golden Road Hefeweizen,Hefeweizen,16.0,TRUE,30/12/2022
+897,68,65.0,1399,Heal the Bay IPA,American IPA,16.0,TRUE,08/06/2022
+898,59.000.000.000.000.000,60.0,1296,Point the Way IPA,American IPA,12.0,TRUE,02/05/2022
+899,0.05,,1034,Cabrillo Kölsch,Kölsch,16.0,TRUE,24/07/2022
+900,55,20.0,991,Get Up Offa That Brown,American Brown Ale,16.0,FALSE,20/07/2022
+901,0.08,70.0,750,Burning Bush Smoked IPA,American IPA,16.0,TRUE,23/11/2022
+902,0.08,70.0,749,Wolf Among Weeds IPA (2012),American IPA,16.0,TRUE,27/11/2022
+903,59.000.000.000.000.000,60.0,549,Point the Way IPA (2012),American IPA,16.0,FALSE,07/09/2022
+904,46,15.0,548,Golden Road Hefeweizen (2012),Hefeweizen,16.0,TRUE,03/02/2023
+905,0.07,11.0,2587,Vanilla Porter,American Porter,16.0,TRUE,25/04/2022
+906,0.07,70.0,1109,Descender IPA,American IPA,12.0,FALSE,15/01/2023
+907,0.06,18.0,1108,Sweet As Pacific Ale,American Pale Wheat Ale,12.0,FALSE,18/09/2022
+908,55.999.999.999.999.900,36.0,1000,Good People Pale Ale,American Pale Ale (APA),12.0,TRUE,09/04/2022
+909,9.300.000.000.000.000,103.0,312,Snake Handler Double IPA,American Double / Imperial IPA,12.0,TRUE,28/12/2022
+910,0.06,54.0,311,Coffee Oatmeal Stout,Oatmeal Stout,12.0,TRUE,07/12/2022
+911,0.06,64.0,309,Good People IPA,American IPA,12.0,TRUE,02/12/2022
+912,57.999.999.999.999.900,36.0,308,Good People American Brown Ale,American Brown Ale,12.0,TRUE,26/02/2023
+913,55,40.0,2205,Mountain Rescue Pale Ale,American Pale Ale (APA),12.0,TRUE,11/01/2023
+914,59.000.000.000.000.000,55.0,2198,Goose Island India Pale Ale,American IPA,12.0,TRUE,02/11/2022
+915,54.000.000.000.000.000,30.0,2457,312 Urban Pale Ale,American Pale Ale (APA),16.0,TRUE,06/12/2022
+916,54.000.000.000.000.000,30.0,2202,312 Urban Pale Ale,American Pale Ale (APA),12.0,TRUE,11/09/2022
+917,42,18.0,2201,312 Urban Wheat Ale,American Pale Wheat Ale,16.0,FALSE,09/04/2022
+918,42,18.0,1829,312 Urban Wheat Ale,American Pale Wheat Ale,12.0,FALSE,03/12/2022
+919,42,20.0,581,312 Urban Wheat Ale (2012),American Pale Wheat Ale,12.0,TRUE,27/03/2022
+920,52.000.000.000.000.000,19.0,1383,Beaver Logger,American Pale Lager,12.0,FALSE,25/02/2023
+921,0.05,,477,White Water Wheat,American Pale Wheat Ale,12.0,FALSE,30/12/2022
+922,52.000.000.000.000.000,,476,Grand Canyon American Pilsner,American Pilsner,12.0,TRUE,21/05/2022
+923,54.000.000.000.000.000,,143,Grand Canyon Sunset Amber Ale,American Amber / Red Ale,12.0,FALSE,09/01/2023
+924,,,142,Black Iron India Pale Ale,American IPA,12.0,TRUE,30/01/2023
+925,43,21.0,2129,Monarch Classic American Wheat,American Pale Wheat Ale,12.0,FALSE,03/12/2022
+926,49,21.0,2127,Sir William's English Brown Ale,English Brown Ale,12.0,FALSE,27/02/2023
+927,55,35.0,2126,Lakefire Rye Pale Ale,American Pale Ale (APA),12.0,FALSE,01/02/2023
+928,53,22.0,2303,Beer Agent Re-Ignition,American Blonde Ale,16.0,FALSE,23/10/2022
+929,57,18.0,1990,Cherry Ale,Fruit / Vegetable Beer,16.0,TRUE,27/03/2022
+930,55.999.999.999.999.900,33.0,1702,Bourbon Barrel Aged Coconut Porter,American Porter,16.0,TRUE,20/02/2023
+931,62,60.0,1701,Great Crescent IPA,American IPA,16.0,FALSE,26/06/2022
+932,57,27.0,1700,Aurora Lager,Dortmunder / Export Lager,16.0,FALSE,04/08/2022
+933,53,22.0,1699,Great Crescent Blonde Ale,American Blonde Ale,16.0,FALSE,30/07/2022
+934,55.999.999.999.999.900,33.0,1269,Great Crescent Coconut Porter,American Porter,16.0,FALSE,17/05/2022
+935,57,25.0,930,Great Crescent Oktoberfest Lager,Märzen / Oktoberfest,16.0,TRUE,27/04/2022
+936,45,36.0,649,Great Crescent Brown Ale,American Brown Ale,16.0,FALSE,09/01/2023
+937,57,18.0,639,Cherry Ale (1),Fruit / Vegetable Beer,16.0,TRUE,16/06/2022
+938,57,27.0,626,Aurora Lager (2011),Dortmunder / Export Lager,16.0,FALSE,12/08/2022
+939,0.06,25.0,615,Frosted Fields Winter Wheat,American Dark Wheat Ale,16.0,FALSE,04/02/2023
+940,51,13.0,478,Great Crescent Belgian Style Wit,Witbier,16.0,FALSE,10/10/2022
+941,75,65.0,455,Bourbon's Barrel Stout,American Stout,16.0,FALSE,18/01/2023
+942,0.08,66.0,442,Great Crescent Stout,English Stout,16.0,TRUE,13/03/2022
+943,55.999.999.999.999.900,33.0,441,Great Crescent Coconut Porter (2012),American Porter,16.0,FALSE,30/11/2022
+944,57,23.0,440,Great Crescent Dark Lager,Euro Dark Lager,16.0,FALSE,09/11/2022
+945,42,26.0,439,Great Crescent Mild Ale,English Dark Mild Ale,16.0,FALSE,16/07/2022
+946,62,60.0,436,Great Crescent IPA (2011),American IPA,16.0,FALSE,16/02/2023
+947,53,22.0,389,Great Crescent Blonde Ale (2011),American Blonde Ale,16.0,FALSE,21/04/2022
+948,0.05,,2650,Denver Pale Ale (Artist Series No. 1),American Pale Ale (APA),12.0,FALSE,13/12/2022
+949,87,,2649,Hibernation Ale,Old Ale,12.0,TRUE,10/07/2022
+950,61,,2648,Whitewater,American Pale Wheat Ale,12.0,TRUE,09/12/2022
+951,71,,2647,Rumble,American IPA,12.0,FALSE,07/09/2022
+952,83,,2646,Orabelle,Tripel,12.0,TRUE,07/06/2022
+953,0.05,,2645,Lasso,American IPA,12.0,TRUE,17/02/2023
+954,95,75.0,2644,Yeti  Imperial Stout,Russian Imperial Stout,12.0,FALSE,18/06/2022
+955,73,,2643,Colette,Saison / Farmhouse Ale,12.0,FALSE,14/04/2022
+956,71,,2642,Titan IPA,American IPA,12.0,FALSE,27/04/2022
+957,45,15.0,404,Black Star Double Hopped Golden Lager (24 oz.),American Pale Lager,24.0,FALSE,05/07/2022
+958,45,15.0,164,Black Star Double Hopped Golden Lager (12 oz.),American Pale Lager,12.0,FALSE,06/02/2023
+959,52.000.000.000.000.000,49.0,1923,Commotion APA,American Pale Ale (APA),12.0,TRUE,12/05/2022
+960,52.000.000.000.000.000,,1922,Southern Drawl Pale Lager,American Pale Lager,12.0,FALSE,01/02/2023
+961,0.05,5.0,1604,Chickawawa Lemonale,Fruit / Vegetable Beer,12.0,FALSE,03/06/2022
+962,0.07,22.0,1574,Barrel Aged Farmer,American Brown Ale,16.0,TRUE,07/01/2023
+963,48,,1446,Great River Golden Ale,American Blonde Ale,12.0,TRUE,01/09/2022
+964,48,,1275,Dirty Blonde Chocolate Ale,American Blonde Ale,12.0,FALSE,02/08/2022
+965,48,20.0,1244,Dos Pistolas,Vienna Lager,12.0,FALSE,09/12/2022
+966,0.05,30.0,1064,Owney Irish Style Red Ale,Irish Red Ale,16.0,FALSE,18/07/2022
+967,0.06,,1028,Aaah Bock Lager,Vienna Lager,16.0,TRUE,02/09/2022
+968,55,10.0,865,Widespread Wit,Witbier,16.0,FALSE,25/11/2022
+969,54.000.000.000.000.000,30.0,864,Roller Dam Red Ale,Irish Red Ale,16.0,FALSE,16/01/2023
+970,53,48.0,863,483 Pale Ale,American Pale Ale (APA),16.0,FALSE,03/09/2022
+971,0.09,99.0,672,Hop A Potamus Double Dark Rye Pale Ale,Rye Beer,16.0,FALSE,27/05/2022
+972,0.07,22.0,655,Farmer Brown Ale,American Brown Ale,16.0,TRUE,25/03/2022
+973,0.07,70.0,540,Big Cock IPA,American IPA,16.0,TRUE,16/10/2022
+974,59.000.000.000.000.000,25.0,539,Oktoberfest,Märzen / Oktoberfest,16.0,FALSE,07/08/2022
+975,48,25.0,517,40th Annual Bix Street Fest Copper Ale (Current),American Amber / Red Ale,16.0,TRUE,09/12/2022
+976,0.06,36.0,371,Redband Stout,American Stout,16.0,TRUE,03/05/2022
+977,53,48.0,190,483 Pale Ale (2010),American Pale Ale (APA),16.0,TRUE,09/11/2022
+978,54.000.000.000.000.000,30.0,189,Roller Dam Red Ale (2010),Irish Red Ale,16.0,FALSE,18/10/2022
+979,0.05,30.0,1106,Pablo Beach Pale Ale,American Pale Ale (APA),12.0,TRUE,29/04/2022
+980,57,44.0,2314,Wild Trail Pale Ale,American Pale Ale (APA),12.0,FALSE,12/09/2022
+981,67,71.0,2313,Mothman Black IPA,American Black Ale,12.0,TRUE,24/11/2022
+982,57.999.999.999.999.900,,2461,Autumn Winds Fest Beer,Märzen / Oktoberfest,16.0,TRUE,07/07/2022
+983,85,69.0,2044,Captain's Daughter,American Double / Imperial IPA,12.0,FALSE,01/05/2022
+984,57.999.999.999.999.900,,1567,Autumn Winds,Märzen / Oktoberfest,16.0,FALSE,27/07/2022
+985,0.06,54.0,1505,Flying Jenny Extra Pale Ale,American Pale Ale (APA),12.0,TRUE,03/07/2022
+986,0.04,20.0,1186,Hazy Day Belgian-Style Wit,Witbier,16.0,FALSE,09/08/2022
+987,55,,1185,Bring Back the Beach Blonde Ale,American Blonde Ale,16.0,FALSE,24/12/2022
+988,0.06,34.0,984,Leaning Chimney Smoked Porter,American Porter,16.0,TRUE,03/06/2022
+989,0.06,54.0,693,Flying Jenny Extra Pale Ale (2012),American Pale Ale (APA),12.0,FALSE,08/09/2022
+990,49,22.0,631,Flagship Ale,Cream Ale,12.0,FALSE,21/09/2022
+991,45,6.0,2375,Mr. Blue Sky,American Pale Wheat Ale,16.0,TRUE,04/08/2022
+992,65,,2143,3 Scrooges,Winter Warmer,16.0,FALSE,20/08/2022
+993,0.05,25.0,2142,Screamin’ Pumpkin,Pumpkin Ale,16.0,FALSE,26/05/2022
+994,0.05,35.0,2141,Grand Trunk Bohemian Pils,Czech Pilsener,16.0,TRUE,26/12/2022
+995,65,25.0,2140,El Rojo,American Amber / Red Ale,16.0,FALSE,09/03/2022
+996,75,,2139,Norm's Raggedy Ass IPA,American IPA,16.0,FALSE,04/01/2023
+997,0.05,35.0,2138,Grind Line,American Pale Ale (APA),16.0,FALSE,27/01/2023
+998,0.04,55.0,2007,Norm's Gateway IPA,American IPA,12.0,TRUE,30/08/2022
