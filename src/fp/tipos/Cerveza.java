@@ -1,12 +1,17 @@
 package fp.tipos;
 
 import java.time.LocalDate;
+
+import java.time.format.DateTimeFormatter;
+import java.util.List;
 import java.util.Objects;
+import java.util.Set;
+
 
 public class Cerveza implements Comparable<Cerveza>{
 	//BASICAS
 		private Integer num;
-		private Double abv;
+		private Integer abv;
 		private Double ibu;
 		private Integer id;
 		private String name;
@@ -14,6 +19,8 @@ public class Cerveza implements Comparable<Cerveza>{
 		private Double ounces;
 		private Boolean booleano;
 		private LocalDate fecha;
+		private List<String> lista;
+		private Color color;
 		
 		//getters setters
 		public Integer getNum() {
@@ -22,10 +29,10 @@ public class Cerveza implements Comparable<Cerveza>{
 		public void setNum(Integer num) {
 			this.num = num;
 		}
-		public Double getAbv() {
+		public Integer getAbv() {
 			return abv;
 		}
-		public void setAbv(Double abv) {
+		public void setAbv(Integer abv) {
 			checkAbv(abv);
 			this.abv = abv;
 		}
@@ -63,9 +70,15 @@ public class Cerveza implements Comparable<Cerveza>{
 		public Boolean getBooleano() {
 			return booleano;
 		}
+		public List<String> getLista(){
+			return lista;
+		}
+		public Color getColor() {
+			return color;
+		}
 		//constructores
-		public Cerveza(Integer num, Double abv, Double ibu, Integer id, String name, String style, Double ounces,
-				Boolean booleano, LocalDate fecha) {
+		public Cerveza(Integer num, Integer abv, Double ibu, Integer id, String name, String style, Double ounces,
+				Boolean booleano, LocalDate fecha, List<String> lista, Color color) {
 			checkName(name);
 			checkAbv(abv);
 			this.num = num;
@@ -77,15 +90,18 @@ public class Cerveza implements Comparable<Cerveza>{
 			this.ounces = ounces;
 			this.booleano = booleano;
 			this.fecha = fecha;
+			this.lista = lista;
+			this.color = color;
 		}
 		
-		public Cerveza(Double abv, String name, String style) {
+		public Cerveza(Integer abv, String name, String style) {
 			checkName(name);
 			checkAbv(abv);
 			this.abv = abv;
 			this.name = name;
 			this.style = style;
 		}
+		
 		
 		//DERIVADA
 		public Integer getMes() {
@@ -95,12 +111,12 @@ public class Cerveza implements Comparable<Cerveza>{
 		//toString
 		public String toString() {
 			return "Cerveza [num=" + num + ", abv=" + abv + ", ibu=" + ibu + ", id=" + id + ", name=" + name + ", style="
-					+ style + ", ounces=" + ounces + ", booleano=" + booleano + ", fecha=" + fecha + "]";
+					+ style + ", ounces=" + ounces + ", booleano=" + booleano + ", fecha=" + fecha + ", lista="+ lista + ", Color=" + color +"]";
 		}
 		
 		//HashCode Equals
 		public int hashCode() {
-			return Objects.hash(abv, booleano, fecha, ibu, id, name, num, ounces, style);
+			return Objects.hash(abv, booleano, fecha, ibu, id, name, num, ounces, style, lista, color);
 		}
 		
 		public boolean equals(Object obj) {
@@ -114,7 +130,8 @@ public class Cerveza implements Comparable<Cerveza>{
 			return Objects.equals(abv, other.abv) && Objects.equals(booleano, other.booleano)
 					&& Objects.equals(fecha, other.fecha) && Objects.equals(ibu, other.ibu) && Objects.equals(id, other.id)
 					&& Objects.equals(name, other.name) && Objects.equals(num, other.num)
-					&& Objects.equals(ounces, other.ounces) && Objects.equals(style, other.style);
+					&& Objects.equals(ounces, other.ounces) && Objects.equals(style, other.style)
+					&& Objects.equals(lista, other.lista) && Objects.equals(color, other.color);
 		}
 		//COMPARE TO
 		public int compareTo(Cerveza c) {
@@ -130,9 +147,9 @@ public class Cerveza implements Comparable<Cerveza>{
 		}
 		
 		//RESTRICCIONES
-		private void checkAbv(Double abv) {
+		private void checkAbv(Integer abv) {
 			if(abv<0) {
-				throw new IllegalArgumentException("El abv no puede ser menor que 0.0");
+				throw new IllegalArgumentException("El abv no puede ser menor que 0");
 			}
 		}
 		

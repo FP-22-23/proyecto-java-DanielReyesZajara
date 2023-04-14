@@ -1,16 +1,22 @@
 package fp.tipos.test;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 import fp.tipos.Cerveza;
+import fp.tipos.Color;
 
 public class CervezaTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		List<String> lista = new ArrayList<>();
+		lista.add("Azul");
+		lista.add("Verde");
 		//CONSTRUCTORES
-				Cerveza c = new Cerveza(1,0.33,3.5,44,"APA","Amber",12.1,true,LocalDate.of(2010,02,13));
-				Cerveza c2 = new Cerveza(4.6,"DOUBLE IPA","APA");
+				Cerveza c = new Cerveza(1,33,3.5,44,"APA","Amber",12.1,true,LocalDate.of(2010,02,13),lista,Color.RED);
+				Cerveza c2 = new Cerveza(4,"DOUBLE IPA","APA");
 				
 				System.out.println(c);
 				System.out.println(c2);
@@ -35,7 +41,7 @@ public class CervezaTest {
 				
 				//COMPROBACION DE RESTRICION
 				System.out.println("RESTRICCION");
-				c.setAbv(-0.1);
+				c.setAbv(-1);
 				System.out.println(c2.getAbv());
 	}
 
