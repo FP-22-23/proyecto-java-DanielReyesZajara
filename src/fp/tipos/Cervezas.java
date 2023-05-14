@@ -1,12 +1,21 @@
 package fp.tipos;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Optional;
+import java.util.OptionalDouble;
 import java.util.Set;
+import java.util.SortedMap;
+import java.util.SortedSet;
+import java.util.TreeMap;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -146,6 +155,124 @@ public class Cervezas {
 		return res;
 	}
 	
+	
+	/*TRATAMIENTOS SECUENCIALES CON STREAM*/
+	
+	//Exite(Stream)
+	public Boolean getCervezaColorStream(Color co) {
+		return cervezas.stream()
+				.anyMatch(c -> c.getColor().equals(co));
+	}
+	
+	//Media(Stream)
+	public Double getMediaCervezaArmaguraDeUnColorSt(Color co) {
+		OptionalDouble opt = cervezas.stream()
+				.filter(c -> c.getColor().equals(co))
+				.mapToDouble(c -> c.getIbu())
+				.average();
+		return opt.orElse(0.);
+	}
+	
+	//Filtrado(Stream)
+	public Set<Cerveza> getCervezasPorElementoDeSuAtributoListaSt(String gen){
+		return cervezas.stream()
+				.filter(c -> c.getLista().contains(gen))
+				.collect(Collectors.toSet());
+	}
+	
+	//Max + Filtrado
+	public Cerveza getCervezaMayorAbvDadoUnAño(Integer a) {
+		Optional<Cerveza> opt = cervezas.stream()
+				.filter(c -> Integer.valueOf(c.getFecha().getYear()).equals(a))
+				.max(Comparator.comparing(c -> c.getAbv()));
+		
+		return opt.orElse(null);
+	}
+	
+	// Selecccion + filtrado + ordenacion
+	public SortedSet<String> getNombresCervezasOrdenadosAlfabeticamenteDadoUnBool(Boolean x){
+		return cervezas.stream()
+				.filter(c -> c.getBooleano().equals(x))
+				.map(Cerveza::getName)
+				.sorted()
+				.collect(Collectors.toCollection(TreeSet::new));
+	}
+	
+	//metodo 4 con stream
+	public Map<Double,List<Cerveza>> getCervezaPorOuncesStream() {
+		return cervezas.stream()
+				.collect(Collectors.groupingBy(Cerveza::getOunces));
+	}
+	
+	//Collectors mapping
+	public Map<Color,List<String>> getEstiloCervezaPorColor(){
+		
+		return cervezas.stream()
+				.collect(
+						Collectors.groupingBy(
+								Cerveza::getColor,
+								Collectors.mapping(Cerveza::getStyle,
+										Collectors.toList())));
+		
+	}
+	
+	//metodo clave atributo y valor max/min
+	public Map<Boolean,Double> getMinimoIbuPorBooleano() {
+		Map<Boolean, List<Cerveza>> aux = cervezas.stream()
+				.collect(Collectors.groupingBy(
+						Cerveza::getBooleano,
+						Collectors.toList()));
+		
+		return aux.entrySet().stream()
+				.collect(Collectors.toMap(
+						e->e.getKey(),
+						e->min(e.getValue())));
+		
+		
+	}
+	
+	private static Double min(Collection<Cerveza> c) {
+		Comparator<Cerveza> cmp = Comparator.comparing(Cerveza::getIbu);
+ 		return c.stream()
+				.min(cmp)
+				.map(Cerveza::getIbu)
+				.orElse(0.0);
+						
+	}
+
+	
+	//SortedMap y valores n mejores de un atributo
+	
+	public SortedMap<Integer, Set<Integer>> getTopNDeAbvPorMes(Integer n){
+		return  cervezas.stream()
+				.collect(Collectors.groupingBy(
+						Cerveza::getMes,
+						TreeMap::new,
+						Collectors.collectingAndThen(
+								Collectors.toSet(),
+								e->nMejores(e,n))));
+		
+	}
+	
+	private static Set<Integer> nMejores(Collection<Cerveza> x, Integer n) {
+		return x.stream()
+				.sorted(Comparator.comparing(Cerveza::getAbv))
+				.limit(n)
+				.map(Cerveza::getAbv)
+				.collect(Collectors.toSet());
+	}
+	
+	
+	//Map devuelve la clave del max/min del valor del todo el Map
+	
+	public Map<Boolean, Double> getBooleanoConMenorIbu(){
+		Map<Boolean, Double> aux = getMinimoIbuPorBooleano();
+		
+		Map.Entry<Boolean, Double> res = Collections.min(aux.entrySet(), Comparator.comparing(Map.Entry::getValue));
+		
+		
+		return Map.of(res.getKey(),res.getValue());
+	}
 }
 	
 	 
