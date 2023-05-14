@@ -44,7 +44,7 @@ Además, el dataset está formado por 100 filas. La primera es la cabecera y las
 
 Hemos creado un tipo base 'Cerveza' con su tipo test, el cual crea un objeto de Tipo de Cerveza al cual se le puede aplicar algunos metodos
 definidos en la clase.Una Factoria 'FactoriaCervezas' con su tipo test, el cual lee el csv parseando las propiedades necesarias para convetirlo a su tipo
-y creando un contenedor con todas las cervezas como elementos de ese contenedor.
+y creando un contenedor con todas las cervezas como elementos de ese contenedor.Además de un Record de Cerveza cuyas propiedades son el nombre, el estilo y el abv.
 
 ### Tipo Base
 Tipo Cerveza, para crear un objeto de tipo cerveza,por otro lado estan definidos metodos como los getters y setters, hashcode, equals, compareTo, un propiedad derivada , contructores, la reprensentacion como cadena y obviamente las propidades del objeto.
@@ -129,3 +129,13 @@ Cervezas, Para crear un contenedor de tipo List<Cerveza> donde se almacenan onje
 - getCervezasPorUnElementoDeSuAtributoLista(String gen): Filtra todas las cervezas, sin repetir ninguna, que tengan el mismo elemento en su lista igual a 'gen'.
 - getListaCervezasPorOunces(): Obtiene un Map<Double, List<Cervezas>> que para cada ounces diferente(clave) obtiene la lista de cervezas con ese ounces(valor).
 - getSumaTotalDeAbvPorAnyo(): Obtiene un Map<Integer, Integer> que para cada año(Clave) obtiene la suma total de abv de dicho año(valor).
+- getCervezaColorStream(Color co): Determina si existe alguna cerveza que tenga el mismo color que establezca 'co', utilizando el metodo Stream.
+- getMediaCervezaAmarguraDeUnColorSt(Color co): Calcula la media de amargura de las cervezas que sean del mismo color que 'co', usando el metodo Stream.
+- getCervezasPorUnElementoDeSuAtributoListaSt(String gen): Filtra todas las cervezas, sin repetir ninguna , que tenga el mismo elemento en si lista igual a 'gen', utilizando el metodo Stream.
+- getCervezaMayorAbvDadoUnAño(Integer a): Utlizando el metodo Stream, obtiene la cerveza con mayor abv de el año 'a'.
+- getNombresCervezasOrdenadosAlfabeticamenteDadoUnBool(Boolean x): Utilizando el metodo Stream, obtiene un conjunto ordenado alfabeticamente de los nombres de las cervezas cuya propiedad Booleano coincida con 'x'.
+- getCervezaPorOuncesStream(): Utilizando el metdodo Stream, Obtiene un Map que obtiene listas de cervezas por cada numero de Ounces.
+- getEstiloCervezaPorColor(): Utilizando el metodo Stream, obtiene un Map que agrupa los estilos de las cervezas por cada color.
+- getMinimoIbuPorBooleano(): Utilizando el metodo Stream, obtiene un Map que obtiene por cada booleano el minimo ibu de las cervezas que tengan ese bool.
+- getTopNDeAbvPorMes(Integer n): Utilizando el metodo Stream, obtiene un SortedMap que por cada mes obtiene el top 'n' de abvs de ese mes.
+- getBoolenaoConMenorIbu(): Utilizando el metodo Stream, obtiene la clave y el valor cuyo valor sea el minimo del Map "getMinimoIbuPorBooleano()".
